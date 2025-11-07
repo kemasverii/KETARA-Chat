@@ -1,0 +1,49 @@
+[
+    {
+        "tag":"tentang_itera",
+        "patterns":[
+            "Apa itu ITERA?",
+            "Ceritakan tentang ITERA",
+            "Informasi mengenai ITERA",
+            "Sejarah singkat ITERA"
+        ],
+        "responses":[
+            "Institut Teknologi Sumatera (ITERA) adalah perguruan tinggi negeri yang diresmikan oleh Presiden Republik Indonesia pada tahun 2014. Selama 10 tahun, ITERA dibina oleh Institut Teknologi Bandung (ITB) untuk meningkatkan kualitas pendidikan dan penelitian yang setara di bidang teknologi dan sains."
+        ]
+    },
+    {
+        "tag":"lokasi_itera",
+        "patterns":[
+            "Dimana lokasi ITERA?",
+            "Alamat ITERA dimana?",
+            "Di mana kampus ITERA berada?"
+        ],
+        "responses":[
+            "ITERA berlokasi di Jl. Terusan Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35365, Indonesia."
+        ]
+    },
+    {
+        "tag":"fakultas_itera",
+        "patterns":[
+            "Fakultas apa saja yang ada di ITERA?",
+            "Sebutkan fakultas di ITERA",
+            "Apa saja jurusan di ITERA?"
+        ],
+        "responses":[
+            "ITERA memiliki beberapa fakultas, antara lain Fakultas Teknologi Industri, Fakultas Teknologi Infrastruktur dan Kewilayahan, dan Fakultas Sains."
+        ]
+    },
+    {
+        "tag":"logo_itera",
+        "patterns":[
+            "Apa logo ITERA?",
+            "Bagaimana lambang ITERA?",
+            "Deskripsikan logo ITERA!",
+            "Ceritakan tentang lambang ITERA",
+            "Makna logo ITERA apa?"
+        ],
+        "responses":[
+            "ITERA memiliki lambang berbentuk Pulau Sumatera dengan makna sebagai berikut:\n\n1. Lambang berbentuk Pulau Sumatera yang terdiri dari 72 (tujuh puluh dua) bujur sangkar berwarna kuning emas dan 1 (satu) bujur sangkar berwarna merah di ujung bawah menandakan kedudukan ITERA.\n\n2. 72 bujur sangkar kuning emas dan 1 bujur sangkar merah yang membentuk Pulau Sumatera memiliki makna ITERA sebagai milik seluruh provinsi di Pulau Sumatera.\n\n3. Warna kuning emas memiliki makna keunggulan dan mutu tinggi ITERA dalam menyelenggarakan pendidikan teknologi, ilmu pengetahuan, seni, dan kemanusiaan.\n\n4. Warna merah memiliki makna keberanian dan inovasi, kepeloporan, dan ketangguhan ITERA dalam mengantarkan bangsa Indonesia di kancah dunia melalui pendidikan yang bermartabat."
+        ]
+    }
+]
