@@ -38,12 +38,12 @@
         "patterns": [
             "Apa itu Fakultas Sains di ITERA?",
             "FS itu singkatan dari apa?",
-            "Ceritain tentang Fakultas Sains ITERA",
+            "Berikan tentang Fakultas Sains ITERA",
             "FS di ITERA bidangnya apa aja?",
-            "Fakultas Sains di ITERA itu ngapain aja?"
+            "Deskripsikan informasi terkait dengan Fakultas Sains (FS) di ITERA!"
         ],
         "responses": [
-            "Fakultas Sains (FS) ITERA berfokus pada pengembangan ilmu dasar seperti matematika, fisika, biologi, kimia, dan astronomi untuk mendukung kemajuan ilmu pengetahuan dan teknologi."
+            "Fakultas Sains (FS) ITERA merupakan salah satu fakultas yang berfokus pada pendidikan, penelitian, dan pengabdian di bidang sains dasar dan terapan. Fakultas ini bertujuan menghasilkan lulusan berkualitas dan berdaya saing global dalam pengembangan ilmu pengetahuan dan teknologi. Bidang utama yang dikelola meliputi ilmu alam seperti Kimia, Fisika, Biologi, dan Matematika, serta ilmu terapan dan lingkungan."
         ]
     },
     {
@@ -51,12 +51,12 @@
         "patterns": [
             "Apa itu FTIK di ITERA?",
             "FTIK itu singkatan dari apa?",
-            "Ceritain dong Fakultas Teknologi Infrastruktur dan Kewilayahan",
-            "FTIK fokusnya ke bidang apa sih?",
-            "FTIK di ITERA itu ngurus apa aja?"
+            "Informasi tentang Fakultas Teknologi Infrastruktur dan Kewilayahan di ITERA",
+            "FTIK fokusnya ke bidang apa?",
+            "Deskripsikan informasi terkait dengan Fakultas Teknologi Infrastruktur dan Kewilayahan (FTIK) di ITERA!"
         ],
         "responses": [
-            "Fakultas Teknologi Infrastruktur dan Kewilayahan (FTIK) ITERA fokus pada bidang perencanaan, pembangunan, serta pengelolaan infrastruktur dan wilayah berkelanjutan."
+            "Fakultas Teknologi Infrastruktur dan Kewilayahan (FTIK) di Institut Teknologi Sumatera (ITERA) adalah fakultas yang berfokus pada pengembangan ilmu pengetahuan dan teknologi di bidang infrastruktur, perencanaan wilayah, dan tata ruang. Fakultas ini menjadi wadah bagi pendidikan dan penelitian yang mendukung pembangunan berkelanjutan serta pengelolaan sumber daya wilayah di Indonesia, khususnya di kawasan Sumatera."
         ]
     },
      {
@@ -64,12 +64,11 @@
         "patterns": [
             "Apa itu Fakultas Teknologi Industri di ITERA?",
             "FTI itu singkatan dari apa di ITERA?",
-            "Ceritain tentang Fakultas Teknologi Industri dong",
-            "FTI di ITERA itu ngapain aja?",
-            "Apa peran FTI di ITERA?"
+            "Berikan informasi tentang Fakultas Teknologi Industri",
+            "Deskripsikan informasi terkait dengan Fakultas Teknologi Industri (FTI) di ITERA!"
         ],
         "responses": [
-            "Fakultas Teknologi Industri (FTI) ITERA merupakan salah satu fakultas yang fokus pada bidang rekayasa dan pengembangan teknologi industri untuk mendukung kemajuan industri di Indonesia, terutama wilayah Sumatera."
+            "Fakultas Teknologi Industri (FTI) di Institut Teknologi Sumatera (ITERA) adalah fakultas yang berfokus pada bidang rekayasa, teknologi, dan industri. FTI berperan dalam penyelenggaraan pendidikan tinggi, penelitian, serta pengabdian kepada masyarakat untuk mendukung kemajuan industri nasional dan pembangunan berkelanjutan di Sumatera."
         ]
     },
     {
