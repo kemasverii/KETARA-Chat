@@ -1,87 +1,1641 @@
 [
     {
-        "tag":"tentang_itera",
-        "patterns":[
+        "tag": "tentang_itera",
+        "patterns": [
             "Apa itu ITERA?",
             "Ceritakan tentang ITERA",
             "Informasi mengenai ITERA",
-            "Sejarah singkat ITERA"
+            "Sejarah singkat ITERA",
+            "ITERA itu apa sih?",
+            "Institut Teknologi Sumatera",
+            "Kampus ITERA gimana?",
+            "Jelasin tentang ITERA dong",
+            "ITERA singkatan dari apa?",
+            "Kapan ITERA didirikan?",
+            "ITERA berdiri tahun berapa?",
+            "Siapa yang meresmikan ITERA?",
+            "ITERA dibina sama siapa?",
+            "ITB itu apa hubungannya sama ITERA?",
+            "Kenapa namanya Institut Teknologi Sumatera?",
+            "ITERA universitas atau institut?",
+            "ITERA negeri atau swasta?",
+            "PTN di Lampung apa aja?",
+            "Kampus teknologi di Lampung"
         ],
-        "responses":[
-            "Institut Teknologi Sumatera (ITERA) adalah perguruan tinggi negeri yang diresmikan oleh Presiden Republik Indonesia pada tahun 2014. Selama 10 tahun, ITERA dibina oleh Institut Teknologi Bandung (ITB) untuk meningkatkan kualitas pendidikan dan penelitian yang setara di bidang teknologi dan sains."
+        "responses": [
+            "Institut Teknologi Sumatera (ITERA) adalah perguruan tinggi negeri yang diresmikan pada 6 Oktober 2014 oleh Presiden Susilo Bambang Yudhoyono melalui Peraturan Presiden Nomor 124 Tahun 2014. ITERA didirikan sebagai respons atas permintaan lulusan institusi teknologi nasional yang meningkat dan kebutuhan pengembangan SDM di Sumatera. Dibina oleh ITB selama 10 tahun untuk memastikan standar kualitas pendidikan setara dengan ITB."
         ]
     },
     {
-        "tag":"lokasi_itera",
-        "patterns":[
+        "tag": "lokasi_itera",
+        "patterns": [
             "Dimana lokasi ITERA?",
             "Alamat ITERA dimana?",
-            "Di mana kampus ITERA berada?"
+            "Di mana kampus ITERA berada?",
+            "ITERA ada di mana?",
+            "Kampus ITERA lokasinya dimana?",
+            "Alamat lengkap ITERA",
+            "ITERA di Lampung mana?",
+            "Jalan apa ITERA?",
+            "Berapa km dari Bandar Lampung ke ITERA?",
+            "ITERA dekat tol ga?"
         ],
-        "responses":[
-            "ITERA berlokasi di Jl. Terusan Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35365, Indonesia."
+        "responses": [
+            "ITERA berlokasi di Jl. Terusan Ryacudu, Way Hui, Kec. Jati Agung, Kabupaten Lampung Selatan, Lampung 35365, Indonesia. Kampus ini berjarak sekitar 35 km dari pusat Kota Bandar Lampung dengan akses sangat strategis karena berdampingan langsung dengan Tol Trans Sumatera, memudahkan akses dari berbagai kota di Sumatera."
         ]
     },
     {
-        "tag":"fakultas_itera",
-        "patterns":[
+        "tag": "luas_kampus",
+        "patterns": [
+            "Berapa luas kampus ITERA?",
+            "Kampus ITERA luasnya berapa?",
+            "Luas lahan ITERA",
+            "Seberapa besar kampus ITERA?",
+            "Luas area ITERA berapa hektar?",
+            "Kampus ITERA luas ga?"
+        ],
+        "responses": [
+            "Kampus ITERA memiliki luas total 300 hektar dengan alokasi 60% (180 hektar) sebagai Ruang Terbuka Hijau (RTH) sesuai konsep Forest Campus. Didalamnya terdapat Kebun Raya 75 hektar yang sedang dikembangkan sebagai pusat konservasi flora Sumatera. Luas lahan ini membuat ITERA memiliki ruang yang cukup untuk pengembangan akademik dan penelitian yang berkelanjutan."
+        ]
+    },
+    {
+        "tag": "visi_misi",
+        "patterns": [
+            "Visi ITERA apa?",
+            "Misi ITERA",
+            "Visi misi ITERA",
+            "Tujuan ITERA",
+            "ITERA punya visi apa?",
+            "Moto ITERA apa?",
+            "Smart Friendly Forest Campus"
+        ],
+        "responses": [
+            "VISI ITERA: Menjadi perguruan tinggi unggul di bidang teknologi, sains, dan seni yang berkontribusi untuk pembangunan bangsa. MISI: (1) Menyelenggarakan pendidikan berkualitas tinggi dalam ilmu pengetahuan, teknologi, seni, dan kemanusiaan; (2) Melakukan penelitian dan pengembangan teknologi untuk mendukung inovasi dan daya saing; (3) Melakukan pengabdian kepada masyarakat melalui transfer teknologi dan pemberdayaan; (4) Membangun kemitraan strategis dengan industri dan institusi. MOTO KAMPUS: Smart, Friendly, and Forest Campus"
+        ]
+    },
+    {
+        "tag": "fakultas_itera",
+        "patterns": [
             "Fakultas apa saja yang ada di ITERA?",
             "Sebutkan fakultas di ITERA",
-            "Apa saja jurusan di ITERA?"
+            "Apa saja jurusan di ITERA?",
+            "ITERA punya fakultas apa aja?",
+            "Berapa fakultas di ITERA?",
+            "Daftar fakultas ITERA",
+            "Program studi ITERA apa aja?",
+            "Jurusan yang ada di ITERA"
         ],
-        "responses":[
-            "ITERA memiliki beberapa fakultas, antara lain Fakultas Teknologi Industri, Fakultas Teknologi Infrastruktur dan Kewilayahan, dan Fakultas Sains."
+        "responses": [
+            "ITERA memiliki 3 Fakultas dengan total 42 program studi: (1) Fakultas Sains (FS) - 10 program studi: Fisika, Matematika, Biologi, Kimia, Farmasi, Atmosfer & Keplanetan, Sains Aktuaria, Sains Lingkungan Kelautan, Sains Data, Magister Fisika. (2) Fakultas Teknologi Infrastruktur & Kewilayahan (FTIK) - 10 program studi: Teknik Geomatika, Perencanaan Wilayah & Kota, Teknik Sipil, Arsitektur, Teknik Lingkungan, Teknik Kelautan, Desain Komunikasi Visual, Arsitektur Lanskap, Teknik Perkeretaapian, Rekayasa Tata Kelola Air, Pariwisata. (3) Fakultas Teknologi Industri (FTI) - 22 program studi mencakup Teknik Elektro, Informatika, Mesin, Industri, Kimia, dan lainnya. Semua program studi merupakan kelompok Saintek (IPA)."
         ]
     },
     {
-        "tag": "fakultas_fs",
+        "tag": "fasilitas_itera",
         "patterns": [
-            "Apa itu Fakultas Sains di ITERA?",
-            "FS itu singkatan dari apa?",
-            "Berikan tentang Fakultas Sains ITERA",
-            "FS di ITERA bidangnya apa aja?",
-            "Deskripsikan informasi terkait dengan Fakultas Sains (FS) di ITERA!"
+            "Apa saja fasilitas di ITERA?",
+            "Fasilitas kampus ITERA lengkap ga?",
+            "ITERA punya fasilitas apa aja?",
+            "Gedung apa saja di ITERA?",
+            "Sarana prasarana ITERA"
         ],
         "responses": [
-            "Fakultas Sains (FS) ITERA merupakan salah satu fakultas yang berfokus pada pendidikan, penelitian, dan pengabdian di bidang sains dasar dan terapan. Fakultas ini bertujuan menghasilkan lulusan berkualitas dan berdaya saing global dalam pengembangan ilmu pengetahuan dan teknologi. Bidang utama yang dikelola meliputi ilmu alam seperti Kimia, Fisika, Biologi, dan Matematika, serta ilmu terapan dan lingkungan."
+            "Fasilitas ITERA sangat lengkap dan modern: 5 Gedung Kuliah, 4 Gedung Laboratorium Teknik (GLT 1, 2, 3, OZT), 4 Tower Asrama Mahasiswa, 2 Ruang Perpustakaan Digital, 4 Kantin, 4 Aula Pertemuan, 2 Masjid + RIMA Lebah, PLTS 1 MWP (terbesar di kampus Indonesia), SMART BRT (bus kampus modern), Gym/Fitness Center, Observatorium, 5 Embung dengan jogging track, Lapangan Basket/Voli/Sepakbola, Gedung Serba Guna, Lab Komputer & Multimedia, WiFi area di seluruh kampus, Kebun Raya 75 ha (konservasi flora), dan Fasilitas Kesehatan/Klinik."
         ]
     },
     {
-        "tag": "fakultas_ftik",
+        "tag": "plts_energi",
         "patterns": [
-            "Apa itu FTIK di ITERA?",
-            "FTIK itu singkatan dari apa?",
-            "Informasi tentang Fakultas Teknologi Infrastruktur dan Kewilayahan di ITERA",
-            "FTIK fokusnya ke bidang apa?",
-            "Deskripsikan informasi terkait dengan Fakultas Teknologi Infrastruktur dan Kewilayahan (FTIK) di ITERA!"
+            "Apa itu PLTS ITERA?",
+            "ITERA punya pembangkit listrik?",
+            "PLTS terbesar di kampus Indonesia",
+            "Laboratorium energi terbarukan ITERA",
+            "Kampus mandiri energi",
+            "Solar panel ITERA",
+            "PLTS 1 MWP ITERA"
         ],
         "responses": [
-            "Fakultas Teknologi Infrastruktur dan Kewilayahan (FTIK) di Institut Teknologi Sumatera (ITERA) adalah fakultas yang berfokus pada pengembangan ilmu pengetahuan dan teknologi di bidang infrastruktur, perencanaan wilayah, dan tata ruang. Fakultas ini menjadi wadah bagi pendidikan dan penelitian yang mendukung pembangunan berkelanjutan serta pengelolaan sumber daya wilayah di Indonesia, khususnya di kawasan Sumatera."
+            "PLTS (Pembangkit Listrik Tenaga Surya) ITERA berkapasitas 1 MWP (Mega Watt Peak) adalah yang TERBESAR DI INDONESIA di lingkungan kampus. Dibangun di lahan 1 hektar melalui kerjasama dengan PT Wijaya Karya dan PT Surya Utama Nuansa. Menggunakan sistem on-grid tanpa baterai sehingga dapat ekspor-impor energi dengan PLN. Berfungsi ganda sebagai sumber energi kampus dan Laboratorium Energi Terbarukan. ITERA menjadi kampus pertama di Indonesia yang mencanangkan diri sebagai KAMPUS MANDIRI ENERGI."
+        ]
+    },
+    {
+        "tag": "kebun_raya",
+        "patterns": [
+            "Apa itu Kebun Raya ITERA?",
+            "ITERA punya kebun raya?",
+            "Kebun Raya di ITERA luasnya berapa?",
+            "Fungsi Kebun Raya ITERA",
+            "Konservasi flora Sumatera",
+            "Forest campus ITERA",
+            "RTH ITERA"
+        ],
+        "responses": [
+            "Kebun Raya ITERA adalah proyek konservasi seluas 75 hektar yang sedang dibangun sebagai pusat konservasi flora Pulau Sumatera. Mengintegrasikan aktivitas kampus dengan konservasi lingkungan sebagai satu ekosistem harmonis. Berfungsi untuk: (1) Konservasi - menyimpan koleksi tumbuhan Sumatera, (2) Penelitian - riset botani & ekologi, (3) Pendidikan - laboratorium outdoor program studi, (4) Wisata - destinasi edukasi lingkungan, (5) Jasa lingkungan - penyimpanan karbon & regulasi air."
+        ]
+    },
+    {
+        "tag": "akreditasi_prestasi",
+        "patterns": [
+            "Akreditasi ITERA apa?",
+            "ITERA terakreditasi apa?",
+            "Status akreditasi ITERA",
+            "BAN-PT ITERA",
+            "Prestasi ITERA",
+            "Penghargaan ITERA"
+        ],
+        "responses": [
+            "ITERA telah meraih akreditasi 'BAIK SEKALI' dari BAN-PT (Badan Akreditasi Nasional Perguruan Tinggi) SK No. 108/SK/BAN-PT/Akred/PT/II/2021 berlaku hingga 23 Februari 2026. Prestasi ITERA meliputi: PLTS 1 MWP terbesar di kampus Indonesia, Kampus Mandiri Energi pertama di Indonesia, Teknik Perkeretaapian satu-satunya di Indonesia (resmi 5 Agustus 2020), Rekayasa Kosmetik satu-satunya di Indonesia, dan Kebun Raya 75 ha untuk konservasi."
+        ]
+    },
+    {
+        "tag": "laboratorium",
+        "patterns": [
+            "ITERA punya lab apa aja?",
+            "Laboratorium di ITERA",
+            "Gedung labtek ITERA ada berapa?",
+            "Lab teknik ITERA",
+            "GLT ITERA",
+            "Peralatan lab ITERA canggih ga?"
+        ],
+        "responses": [
+            "ITERA memiliki 4 Gedung Laboratorium Teknik (GLT) yang lengkap dan modern: GLT 1, GLT 2, GLT 3, dan GLT OZT (Ofyar Z. Tamin). Dilengkapi dengan laboratorium untuk: Lab Material, Teknik Fisika, Pertambangan, Rekayasa Kehutanan, DKV, Arsitektur, Minyak & Gas, Telekomunikasi, Teknik Perkeretaapian (satu-satunya di Indonesia), Rekayasa Kosmetik (satu-satunya di Indonesia), Lab Kimia dengan GC-MS & HPLC, Lab Informatika, dan Multimedia. Beberapa alat laboratorium ITERA bahkan lebih mutakhir dari yang ada di ITB."
+        ]
+    },
+    {
+        "tag": "smart_brt",
+        "patterns": [
+            "Apa itu SMART BRT ITERA?",
+            "Bus kampus ITERA",
+            "Transportasi di ITERA",
+            "SMART BRT",
+            "Shuttle bus ITERA",
+            "Bus gratis ITERA"
+        ],
+        "responses": [
+            "SMART BRT (Smart Bus Rapid Transit) adalah sistem transportasi kampus ITERA yang menghubungkan berbagai area dalam kampus dengan teknologi modern. Memudahkan mobilitas mahasiswa, dosen, dan civitas akademika untuk berpindah antar gedung dan fasilitas mengingat luasnya kampus ITERA (300 hektar). Bus ini dirancang dengan standar modern dan ramah lingkungan untuk mendukung mobilitas kampus yang efisien."
+        ]
+    },
+    {
+        "tag": "observatorium",
+        "patterns": [
+            "ITERA punya observatorium?",
+            "Observatorium ITERA",
+            "Teleskop ITERA",
+            "Astronomi di ITERA",
+            "Fasilitas astronomi ITERA"
+        ],
+        "responses": [
+            "Ya, ITERA memiliki Observatorium yang digunakan untuk pembelajaran, penelitian astronomi, dan pengamatan benda langit. Mendukung program studi Fisika dan Atmosfer & Keplanetan. Fasilitas ini terbuka untuk kegiatan akademik dan pengabdian masyarakat dalam bidang astronomi dan antariksa."
+        ]
+    },
+    {
+        "tag": "embung",
+        "patterns": [
+            "Embung ITERA",
+            "ITERA punya danau?",
+            "Embung di ITERA ada berapa?",
+            "Jogging track ITERA",
+            "Tempat olahraga ITERA"
+        ],
+        "responses": [
+            "ITERA memiliki 5 Embung (kolam/danau buatan) yang berfungsi sebagai: (1) Penampungan air hujan untuk sistem hidrologi kampus, (2) Pengatur drainase kampus, (3) Area rekreasi dan refreshing bagi sivitas akademika. Di sekitar embung tersedia jogging track yang dapat digunakan untuk olahraga lari dan berjalan kaki dengan pemandangan alam yang indah."
+        ]
+    },
+    {
+        "tag": "fasilitas_ibadah",
+        "patterns": [
+            "Masjid di ITERA",
+            "Tempat ibadah ITERA",
+            "ITERA punya masjid?",
+            "Musholla ITERA",
+            "Fasilitas ibadah ITERA",
+            "RIMA lebah ITERA",
+            "Rumah ibadah multiagama"
+        ],
+        "responses": [
+            "ITERA menyediakan fasilitas ibadah yang lengkap dan inklusif: 2 Masjid untuk umat Islam dan RIMA (Rumah Ibadah Multiagama) Lebah untuk kegiatan ibadah umat beragama lain. Fasilitas ini menunjukkan komitmen ITERA dalam mendukung kehidupan spiritual dan keberagaman sivitas akademika dengan sarana yang memadai dan nyaman."
+        ]
+    },{
+        "tag": "masjid",
+        "patterns": [
+            "Masjid di ITERA",
+            "Tempat ibadah ITERA",
+            "ITERA punya masjid?",
+            "Musholla ITERA",
+            "Fasilitas ibadah ITERA"
+        ],
+        "responses": [
+            "ITERA menyediakan 2 Masjid untuk kegiatan ibadah umat Islam dan juga RIMA (Rumah Ibadah Multiagama) Lebah untuk kegiatan ibadah umat beragama lain. Fasilitas ibadah ini menunjukkan komitmen ITERA dalam mendukung kehidupan spiritual sivitas akademika."
+        ]
+    },
+    {
+        "tag": "kantin_makan",
+        "patterns": [
+            "Kantin ITERA",
+            "Tempat makan di ITERA",
+            "ITERA ada kantin berapa?",
+            "Food court ITERA",
+            "Warung makan kampus ITERA",
+            "Makanan di ITERA"
+        ],
+        "responses": [
+            "ITERA menyediakan 4 Kantin yang tersebar di berbagai area strategis dalam kampus untuk memenuhi kebutuhan makan sivitas akademika. Kantin-kantin ini menyediakan berbagai pilihan makanan dan minuman dengan harga terjangkau untuk mahasiswa, dosen, dan karyawan. Tersedia menu lokal dan nasional dengan kualitas yang terjaga dan higienis."
+        ]
+    },
+    {
+        "tag": "olahraga",
+        "patterns": [
+            "Fasilitas olahraga ITERA",
+            "Lapangan olahraga ITERA",
+            "Gym ITERA",
+            "Olahraga di ITERA",
+            "ITERA punya lapangan basket?",
+            "Lapangan voli ITERA",
+            "Fitness center ITERA"
+        ],
+        "responses": [
+            "ITERA memiliki fasilitas olahraga lengkap dan modern: Gym (Fitness Center) dengan peralatan modern, Lapangan Basket, Lapangan Voli, Lapangan Sepakbola berstandar, Jogging Track di sekitar 5 Embung dengan pemandangan alam yang menarik, dan berbagai fasilitas olahraga lainnya. Semua fasilitas dapat digunakan mahasiswa dan civitas akademika untuk menjaga kesehatan dan kebugaran setiap hari."
+        ]
+    },
+    {
+        "tag": "kesehatan",
+        "patterns": [
+            "Fasilitas kesehatan ITERA",
+            "Klinik ITERA",
+            "Puskesmas ITERA",
+            "Layanan kesehatan ITERA",
+            "ITERA ada dokter?",
+            "Berobat di kampus ITERA"
+        ],
+        "responses": [
+            "ITERA menyediakan Fasilitas Kesehatan untuk melayani sivitas akademika dengan tenaga medis profesional. ITERA juga menjalin kerjasama dengan Dinas Kesehatan Provinsi Lampung untuk meningkatkan layanan kesehatan kampus, program kesehatan preventif, dan mendukung penelitian di bidang kesehatan masyarakat."
+        ]
+    },
+    {
+        "tag": "wifi_internet",
+        "patterns": [
+            "WiFi ITERA",
+            "Internet di ITERA",
+            "ITERA ada WiFi gratis?",
+            "Koneksi internet ITERA",
+            "Password WiFi ITERA",
+            "Akses internet kampus"
+        ],
+        "responses": [
+            "ITERA menyediakan Area Akses WiFi di seluruh kampus yang dapat diakses oleh mahasiswa dan sivitas akademika. Jaringan internet berkecepatan tinggi tersedia untuk mendukung kegiatan pembelajaran online, penelitian digital, dan aktivitas akademik lainnya. Koneksi stabil dan coverage yang luas memastikan akses informasi dimana saja di dalam kampus."
+        ]
+    },
+    {
+        "tag": "beasiswa",
+        "patterns": [
+            "Beasiswa ITERA",
+            "ITERA ada beasiswa apa aja?",
+            "Cara daftar beasiswa ITERA",
+            "KIP Kuliah ITERA",
+            "Beasiswa prestasi ITERA",
+            "Bantuan biaya kuliah ITERA",
+            "Program beasiswa ITERA"
+        ],
+        "responses": [
+            "ITERA menyediakan berbagai program beasiswa untuk mahasiswa berprestasi dan kurang mampu, antara lain: (1) KIP Kuliah (Kartu Indonesia Pintar Kuliah) - untuk mahasiswa kurang mampu, (2) Beasiswa Prestasi Akademik - untuk mahasiswa dengan nilai tinggi, (3) Beasiswa Non-Akademik - untuk mahasiswa aktif dalam kegiatan ekstrakurikuler, (4) Beasiswa dari berbagai sponsor/perusahaan. Untuk informasi lengkap, hubungi bagian kemahasiswaan atau kunjungi website ITERA."
+        ]
+    },
+    {
+        "tag": "penelitian",
+        "patterns": [
+            "Penelitian di ITERA",
+            "Riset ITERA",
+            "ITERA fokus penelitian apa?",
+            "Pusat penelitian ITERA",
+            "Laboratorium riset ITERA",
+            "Inovasi di ITERA"
+        ],
+        "responses": [
+            "ITERA aktif melakukan penelitian di berbagai bidang teknologi dan sains dengan fokus pada pengembangan relevan dengan kebutuhan Sumatera dan Indonesia. Didukung oleh laboratorium modern dan kerjasama dengan institusi riset terkemuka. ITERA memiliki pusat penelitian di bidang: Energi Terbarukan (PLTS), Material & Metallurgi, Lingkungan & Konservasi, Infrastruktur & Transportasi, Teknologi Industri, Pertambangan & Migas, dan Bioteknologi. Mahasiswa dapat terlibat aktif dalam penelitian dosen sejak tahun pertama."
+        ]
+    },
+    {
+        "tag": "alumni",
+        "patterns": [
+            "Alumni ITERA",
+            "Lulusan ITERA kerja dimana?",
+            "Prospek kerja lulusan ITERA",
+            "Karir alumni ITERA",
+            "ITERA lulusannya diterima dimana?",
+            "Jejak alumni ITERA"
+        ],
+        "responses": [
+            "Lulusan ITERA telah bekerja di berbagai sektor: BUMN (PLN, Pertamina, Wijaya Karya), Perusahaan Swasta Nasional & Multinasional (Telkom, Microsoft, Google, Samsung), Instansi Pemerintah (Kemendikbud, Bappenas, Kementerian Lingkungan), dan banyak yang melanjutkan S2/S3 di dalam maupun luar negeri (USA, Jerman, Australia). ITERA membekali mahasiswa dengan kompetensi yang dibutuhkan industri menghasilkan lulusan siap kerja dan berdaya saing global."
+        ]
+    },
+    {
+        "tag": "prestasi",
+        "patterns": [
+            "Prestasi ITERA",
+            "Penghargaan ITERA",
+            "Achievement ITERA",
+            "ITERA pernah juara apa?",
+            "Kompetisi yang dimenangkan ITERA"
+        ],
+        "responses": [
+            "ITERA dan mahasiswanya telah meraih berbagai prestasi di tingkat nasional dan internasional dalam kompetisi akademik, riset, inovasi, olahraga, dan seni. ITERA juga meraih akreditasi 'Baik Sekali' dari BAN-PT dan menjadi kampus pertama di Indonesia dengan PLTS terbesar (1 MWP) serta mencanangkan diri sebagai Kampus Mandiri Energi."
+        ]
+    },
+    {
+        "tag": "gedung_fasilitas",
+        "patterns": [
+            "GSG ITERA",
+            "Gedung Serba Guna ITERA",
+            "Aula ITERA",
+            "Tempat acara di ITERA",
+            "Hall kampus ITERA",
+            "Aula pertemuan ITERA"
+        ],
+        "responses": [
+            "ITERA memiliki Gedung Serba Guna (GSG) dan 4 Aula Pertemuan yang dapat digunakan untuk berbagai kegiatan: Seminar, Workshop, Wisuda, Konferensi, Acara Seni & Budaya, dan Kegiatan Kemahasiswaan. Semua fasilitas dilengkapi dengan peralatan audio visual modern, sistem pencahayaan profesional, dan kapasitas yang variatif untuk mendukung berbagai jenis acara berskala dari kecil hingga besar."
+        ]
+    },
+    {
+        "tag": "program_pascasarjana",
+        "patterns": [
+            "ITERA ada S2?",
+            "Program magister ITERA",
+            "Pascasarjana ITERA",
+            "S3 di ITERA",
+            "Program doktor ITERA",
+            "ITERA buka S2 apa aja?"
+        ],
+        "responses": [
+            "Saat ini ITERA fokus pada pengembangan dan konsolidasi program sarjana (S1) dengan kualitas excellence. Untuk informasi terkini mengenai pembukaan program pascasarjana (S2/S3), silakan pantau website resmi ITERA di https://www.itera.ac.id atau hubungi bagian akademik. Diharapkan dalam beberapa tahun ke depan ITERA akan membuka program-program magister di bidang unggulan."
+        ]
+    },
+    {
+        "tag": "kampus_hijau",
+        "patterns": [
+            "Green campus ITERA",
+            "Kampus hijau ITERA",
+            "ITERA ramah lingkungan?",
+            "Sustainability ITERA",
+            "Program lingkungan ITERA",
+            "Komitmen lingkungan ITERA"
+        ],
+        "responses": [
+            "ITERA berkomitmen menjadi GREEN CAMPUS dengan konsep FOREST CAMPUS. Alokasi 60% dari luas lahan 300 hektar (180 ha) dijadikan Ruang Terbuka Hijau (RTH) termasuk Kebun Raya 75 hektar. ITERA juga memiliki PLTS 1 MWP terbesar di kampus Indonesia dan mencanangkan diri sebagai KAMPUS MANDIRI ENERGI. Program lingkungan meliputi konservasi flora, penelitian energi terbarukan, pengelolaan limbah, dan pengembangan teknologi ramah lingkungan untuk kontribusi pada pembangunan berkelanjutan."
+        ]
+    },
+    {
+        "tag": "data_mahasiswa",
+        "patterns": [
+            "Berapa jumlah mahasiswa ITERA?",
+            "ITERA punya berapa mahasiswa?",
+            "Jumlah mahasiswa aktif ITERA",
+            "Total mahasiswa ITERA",
+            "Mahasiswa ITERA ada berapa?",
+            "Berapa banyak mahasiswa di ITERA?",
+            "Statistik mahasiswa ITERA",
+            "Data mahasiswa ITERA",
+            "Jumlah mahasiswa ITERA 2024",
+            "Mahasiswa ITERA sekarang berapa?",
+            "Populasi mahasiswa ITERA",
+            "Berapa orang mahasiswa ITERA?"
+        ],
+        "responses": [
+            "Berdasarkan data terkini (Semester Ganjil 2025/2026), ITERA memiliki 23.984 mahasiswa aktif yang tersebar di 41 program studi sarjana (S1) dan 1 program magister (S2) dari 3 fakultas. Pada tahun akademik 2024/2025, ITERA menerima 4.477 mahasiswa baru. ITERA telah meluluskan lebih dari 10.000 alumni yang kini berkontribusi di berbagai sektor sains dan teknologi di Indonesia."
+        ]
+    },
+    {
+        "tag": "asal_mahasiswa",
+        "patterns": [
+            "Mahasiswa ITERA dari mana saja?",
+            "Asal mahasiswa ITERA",
+            "Mahasiswa ITERA dari provinsi apa?",
+            "Distribusi mahasiswa ITERA",
+            "Mahasiswa ITERA dominan dari mana?",
+            "Berapa persen mahasiswa dari Sumatera?",
+            "Mahasiswa luar Sumatera berapa persen?",
+            "Provinsi mana yang paling banyak mahasiswanya?",
+            "Mahasiswa ITERA dari Lampung berapa?",
+            "Sebaran mahasiswa ITERA"
+        ],
+        "responses": [
+            "Mahasiswa ITERA berasal dari seluruh Indonesia. Berdasarkan data 2024, sebanyak 86% (3.850 mahasiswa) berasal dari berbagai provinsi di Sumatera, dan 14% (627 mahasiswa) dari luar Pulau Sumatera. Lima provinsi dengan mahasiswa terbanyak: 1) Lampung (47% atau 2.104 mahasiswa), 2) Sumatera Utara (17,8% atau 802 mahasiswa), 3) Sumatera Selatan (8,5% atau 296 mahasiswa), 4) Jawa Barat (6,5% atau 331 mahasiswa), 5) Sumatera Barat (6,2% atau 286 mahasiswa)."
         ]
     },
      {
-        "tag": "fakultas_fti",
+        "tag": "data_dosen",
         "patterns": [
-            "Apa itu Fakultas Teknologi Industri di ITERA?",
-            "FTI itu singkatan dari apa di ITERA?",
-            "Berikan informasi tentang Fakultas Teknologi Industri",
-            "Deskripsikan informasi terkait dengan Fakultas Teknologi Industri (FTI) di ITERA!"
+            "Berapa jumlah dosen ITERA?",
+            "ITERA punya berapa dosen?",
+            "Jumlah dosen ITERA",
+            "Total dosen ITERA",
+            "Dosen ITERA ada berapa?",
+            "Berapa banyak dosen di ITERA?",
+            "Statistik dosen ITERA",
+            "Data dosen ITERA",
+            "Dosen S2 dan S3 ITERA",
+            "Kualifikasi dosen ITERA",
+            "Dosen berpendidikan S3 berapa?",
+            "Dosen doktor ITERA"
         ],
         "responses": [
-            "Fakultas Teknologi Industri (FTI) di Institut Teknologi Sumatera (ITERA) adalah fakultas yang berfokus pada bidang rekayasa, teknologi, dan industri. FTI berperan dalam penyelenggaraan pendidikan tinggi, penelitian, serta pengabdian kepada masyarakat untuk mendukung kemajuan industri nasional dan pembangunan berkelanjutan di Sumatera."
+            "ITERA memiliki 778 dosen yang terdiri dari 678 dosen bergelar Magister (S2) dan 100 dosen bergelar Doktor (S3). Sebanyak 49 dosen sedang menempuh pendidikan doktor di berbagai perguruan tinggi dalam dan luar negeri. Khusus di FTIK, terdapat 209 dosen yang terdiri dari: 128 dosen ASN, 38 CPNS, 2 PPPK, dan 41 Non-ASN. ITERA terus meningkatkan kualitas dosen melalui program studi lanjut dan pelatihan kompetensi."
         ]
     },
     {
-        "tag":"logo_itera",
-        "patterns":[
+        "tag": "data_tendik",
+        "patterns": [
+            "Berapa jumlah tendik ITERA?",
+            "ITERA punya berapa tendik?",
+            "Jumlah tenaga kependidikan ITERA",
+            "Total tendik ITERA",
+            "Tendik ITERA ada berapa?",
+            "Tenaga kependidikan aktif ITERA",
+            "Statistik tendik ITERA",
+            "Data tendik ITERA",
+            "Tendik itu apa?",
+            "Tenaga kependidikan ITERA",
+            "Pegawai administrasi ITERA"
+        ],
+        "responses": [
+            "ITERA memiliki 319 tenaga kependidikan (tendik) aktif yang mendukung operasional kampus. Khusus di FTIK, terdapat 38 tendik yang terdiri dari 23 Tendik Administrasi dan 15 tendik lainnya. Tenaga kependidikan berperan penting dalam memberikan layanan administrasi, teknis, dan manajemen untuk mendukung kegiatan akademik dan non-akademik di ITERA."
+        ]
+    },
+    {
+        "tag": "perpustakaan",
+        "patterns": [
+            "Perpustakaan ITERA gimana?",
+            "ITERA punya perpustakaan?",
+            "Fasilitas perpustakaan ITERA",
+            "Ruang baca ITERA",
+            "Koleksi buku ITERA",
+            "Perpustakaan digital ITERA",
+            "Layanan perpustakaan ITERA"
+        ],
+        "responses": [
+            "ITERA memiliki 2 Ruang Perpustakaan yang terus berkembang dengan layanan modern. UPA Perpustakaan ITERA menyediakan: Layanan Sirkulasi (peminjaman/pengembalian), Koleksi Digital (e-books, e-journals), Sistem Repositori Akademik, Layanan Bebas Pustaka Terotomatis, Manajemen Arsip Digital, Ruang Baca yang nyaman, dan Akses WiFi. Perpustakaan ITERA mengembangkan teknologi informasi dan berkolaborasi dengan perpustakaan kampus ternama untuk meningkatkan layanan pengguna."
+        ]
+    },
+     {
+        "tag": "prodi_favorit",
+        "patterns": [
+            "Prodi favorit ITERA apa?",
+            "Jurusan paling diminati di ITERA",
+            "Prodi dengan peminat terbanyak ITERA",
+            "Prodi paling ketat di ITERA",
+            "Jurusan dengan keketatan tertinggi",
+            "Farmasi ITERA ketat ga?",
+            "Teknik Informatika ITERA diminati ga?",
+            "Prodi ITERA yang paling banyak pendaftar",
+            "Jurusan ITERA yang susah masuk",
+            "Passing grade tertinggi ITERA"
+        ],
+        "responses": [
+            "Berdasarkan data 2024, lima program studi dengan keketatan tertinggi di ITERA: 1) Farmasi (1:13) - paling diminati dan ketat, 2) Teknik Pertambangan (1:11), 3) Teknik Informatika (1:9), 4) Pariwisata (1:8), 5) Teknik Industri (1:8). Farmasi tetap menjadi prodi favorit dengan peminat terbanyak, diikuti oleh program studi di bidang teknik dan sains."
+        ]
+    },
+    {
+        "tag": "asrama",
+        "patterns": [
+            "ITERA punya asrama mahasiswa?",
+            "Asrama ITERA ada berapa?",
+            "Fasilitas asrama ITERA",
+            "Tower asrama ITERA",
+            "Mahasiswa ITERA wajib tinggal di asrama?",
+            "Biaya asrama ITERA",
+            "Kehidupan asrama ITERA"
+        ],
+        "responses": [
+            "ITERA menyediakan 4 Tower Asrama Mahasiswa yang dirancang untuk menunjang kegiatan akademik dan kehidupan kampus berkualitas. Asrama ini menjadi tempat tinggal bagi mahasiswa yang mendukung suasana belajar kolaboratif dan interaksi positif antar mahasiswa dari berbagai daerah di Sumatera. Fasilitas asrama dilengkapi dengan AC, kamar mandi, ruang belajar, dan ruang komunal untuk kegiatan bersosialisasi."
+        ]
+    },
+    {
+        "tag": "logo_itera",
+        "patterns": [
             "Apa logo ITERA?",
             "Bagaimana lambang ITERA?",
             "Deskripsikan logo ITERA!",
             "Ceritakan tentang lambang ITERA",
-            "Makna logo ITERA apa?"
+            "Makna logo ITERA apa?",
+            "Filosofi logo ITERA",
+            "Logo ITERA bentuknya apa?",
+            "Kenapa logo ITERA bentuk Sumatera?",
+            "Warna logo ITERA apa aja?"
         ],
-        "responses":[
-            "ITERA memiliki lambang berbentuk Pulau Sumatera dengan makna sebagai berikut:\n\n1. Lambang berbentuk Pulau Sumatera yang terdiri dari 72 (tujuh puluh dua) bujur sangkar berwarna kuning emas dan 1 (satu) bujur sangkar berwarna merah di ujung bawah menandakan kedudukan ITERA.\n\n2. 72 bujur sangkar kuning emas dan 1 bujur sangkar merah yang membentuk Pulau Sumatera memiliki makna ITERA sebagai milik seluruh provinsi di Pulau Sumatera.\n\n3. Warna kuning emas memiliki makna keunggulan dan mutu tinggi ITERA dalam menyelenggarakan pendidikan teknologi, ilmu pengetahuan, seni, dan kemanusiaan.\n\n4. Warna merah memiliki makna keberanian dan inovasi, kepeloporan, dan ketangguhan ITERA dalam mengantarkan bangsa Indonesia di kancah dunia melalui pendidikan yang bermartabat."
+        "responses": [
+            "Logo ITERA berbentuk PULAU SUMATERA dengan makna filosofis: (1) Terdiri dari 72 bujur sangkar kuning emas + 1 bujur sangkar merah di ujung bawah menandakan kedudukan ITERA. (2) 72+1 membentuk Pulau Sumatera, bermakna ITERA milik seluruh provinsi di Pulau Sumatera dan berkomitmen pada pembangunan regional. (3) KUNING EMAS = keunggulan, mutu tinggi, dan prestise pendidikan teknologi, ilmu pengetahuan, seni, dan kemanusiaan. (4) MERAH = keberanian, inovasi, kepeloporan, dan ketangguhan ITERA dalam mengantarkan bangsa Indonesia di kancah dunia melalui pendidikan bermartabat dan berkarakter."
+        ]
+    },
+    {
+        "tag": "jalur_masuk",
+        "patterns": [
+            "Jalur masuk ITERA apa aja?",
+            "Cara daftar ITERA",
+            "SNMPTN ITERA",
+            "SNBT ITERA",
+            "Pendaftaran ITERA",
+            "Seleksi masuk ITERA",
+            "ITERA terima dari IPS ga?",
+            "IPS bisa masuk ITERA?",
+            "Syarat masuk ITERA",
+            "Pendaftaran mahasiswa baru ITERA"
+        ],
+        "responses": [
+            "Semua program studi di ITERA merupakan kelompok SAINTEK (IPA). ITERA menerima mahasiswa melalui: (1) SNMPTN (Seleksi Nasional Masuk PTN) - untuk siswa IPA dengan raport bagus, (2) SNBT (Seleksi Nasional Berbasis Tes) - tes kemampuan akademik untuk semua kelompok, (3) Jalur Khusus - untuk atlet, disabilitas, dan kategori khusus lainnya. Siswa IPS juga dapat mendaftar melalui jalur SNBT golongan Saintek. Untuk info detail: https://pmb.itera.ac.id"
+        ]
+    },
+    {
+        "tag": "organisasi_mahasiswa",
+        "patterns": [
+            "Organisasi mahasiswa ITERA",
+            "Himpunan mahasiswa ITERA",
+            "UKM ITERA apa aja?",
+            "KM ITERA itu apa?",
+            "Kegiatan mahasiswa ITERA",
+            "Himpunan di ITERA",
+            "Unit kegiatan mahasiswa ITERA"
+        ],
+        "responses": [
+            "Organisasi kemahasiswaan ITERA diwadahi dalam Keluarga Mahasiswa (KM) ITERA yang diresmikan 16 Mei 2015. KM ITERA terdiri dari Himpunan Mahasiswa per program studi (contoh: HMGL Avanindra, HMP Mandalanata, HMTG Mayapada) dan Unit Kegiatan Mahasiswa (UKM) seperti: KSR PMI ITERA (Korps Sukarela), Bumi Pasundan ITERA (Seni & Budaya), ITMI (Taekwondo), dan berbagai UKM lainnya di bidang olahraga, seni, akademik, dan sosial. Mahasiswa didorong untuk aktif dalam organisasi untuk mengembangkan softskill dan kepemimpinan."
+        ]
+    },
+    {
+        "tag": "kerjasama",
+        "patterns": [
+            "ITERA kerjasama dengan siapa?",
+            "Mitra ITERA",
+            "Partnership ITERA",
+            "ITERA kolaborasi dengan kampus apa?",
+            "Kerjasama internasional ITERA",
+            "Kerjasama industri ITERA"
+        ],
+        "responses": [
+            "ITERA aktif menjalin kerjasama dengan berbagai pihak: (1) Akademik: ITB (pembina), universitas dalam negeri (Unila, UI, IPB), universitas luar negeri. (2) Industri: PT Wijaya Karya, PT Surya Utama Nuansa, perusahaan swasta & multinasional di bidang teknologi, energi, pertambangan. (3) Pemerintah: Kementerian, Kemenristekdikti, Dinkes Lampung, Pemerintah Daerah. (4) Lembaga Riset: Pusat Penelitian, Lembaga Internasional. Kerjasama mencakup penelitian bersama, pertukaran akademik, magang, dan pengembangan kurikulum sesuai kebutuhan industri."
+        ]
+    },
+    {
+        "tag": "biaya_pendidikan",
+        "patterns": [
+            "Biaya kuliah di ITERA berapa?",
+            "UKT ITERA",
+            "Mahal ga kuliah di ITERA?",
+            "IPI ITERA berapa?",
+            "Biaya pendidikan ITERA",
+            "Uang pangkal ITERA",
+            "Uang SPP ITERA"
+        ],
+        "responses": [
+            "Biaya pendidikan di ITERA bervariasi tergantung program studi: IPI (Iuran Pengembangan Institut) berkisar Rp 17.500.000 - Rp 30.000.000 per tahun sesuai prodi (Saintek, Engineering, dll). ITERA menerapkan sistem UKT (Uang Kuliah Tunggal) yang fleksibel dengan 8 golongan berdasarkan kemampuan ekonomi keluarga. Tersedia program KIP Kuliah dan beasiswa untuk mahasiswa berprestasi. Untuk detail lengkap biaya kuliah dan cicilan: https://pmb.itera.ac.id atau hubungi bagian administrasi."
+        ]
+    },
+    {
+        "tag": "kontak_itera",
+        "patterns": [
+            "Kontak ITERA",
+            "Nomor telepon ITERA",
+            "Email ITERA",
+            "Hubungi ITERA",
+            "Contact ITERA",
+            "Alamat email ITERA",
+            "Customer service ITERA",
+            "Hotline ITERA"
+        ],
+        "responses": [
+            "Hubungi ITERA melalui: WEBSITE: https://www.itera.ac.id | EMAIL: humas@itera.ac.id | TELEPON: (0721) 8030188 | ALAMAT: Jl. Terusan Ryacudu, Way Hui, Jati Agung, Lampung Selatan 35365. ADMISI MAHASISWA: https://pmb.itera.ac.id | HELPDESK: https://helpdesk.itera.ac.id. Untuk informasi tertentu, bisa juga menghubungi bagian-bagian spesifik seperti Akademik, Kemahasiswaan, atau Perpustakaan secara langsung."
+        ]
+    },
+    {
+        "tag": "prodi_unggulan",
+        "patterns": [
+            "Prodi unik di ITERA apa aja?",
+            "Jurusan langka di ITERA",
+            "ITERA punya jurusan apa yang jarang ada?",
+            "Prodi satu-satunya di Indonesia",
+            "Teknik Perkeretaapian ada dimana?",
+            "Rekayasa Kosmetik ada di kampus apa?"
+        ],
+        "responses": [
+            "ITERA memiliki program studi UNIK yang langka/satu-satunya di Indonesia: (1) TEKNIK PERKERETAAPIAN - Satu-satunya di Indonesia (resmi berdiri 5 Agustus 2020), fokus manajemen kereta, sistem operasi, infrastruktur kereta api. (2) REKAYASA KOSMETIK - Satu-satunya di Indonesia, pendidikan vokasional untuk industri kecantikan. (3) SAINS AKTUARIA - Kurikulum komprehensif sesuai Persatuan Aktuaris Indonesia (PAI). (4) SAINS DATA - Program interdisipliner untuk Big Data & AI. Keunikan ini membuat lulusan ITERA sangat dicari industri."
+        ]
+    },
+    {
+        "tag": "fasilitas_penunjang",
+        "patterns": [
+            "Fasilitas penunjang ITERA apa saja?",
+            "Kenyamanan mahasiswa di ITERA",
+            "Fasilitas tambahan ITERA",
+            "Sarana kesejahteraan ITERA"
+        ],
+        "responses": [
+            "Fasilitas penunjang ITERA mendukung kenyamanan dan kesejahteraan mahasiswa meliputi: Bank Syariah & Konvensional (ATM di kampus), Toko Buku & Alat Tulis, Fotokopi & Printing Center, Salon Rambut, Laundry Services, Koperasi Mahasiswa, Ruang Diskusi Informal, Musholla & Masjid, Area Parkir Luas, Transportasi Smart BRT, dan berbagai layanan penunjang lainnya. Semuanya dirancang untuk menciptakan lingkungan kampus yang nyaman, aman, dan mendukung kesuksesan akademik mahasiswa."
+        ]
+    },
+    {
+        "tag": "kegiatan_akademik",
+        "patterns": [
+            "Kegiatan akademik di ITERA",
+            "Semester di ITERA berapa bulan?",
+            "Kurikulum ITERA apa?",
+            "Sistem pembelajaran di ITERA",
+            "Jadwal akademik ITERA"
+        ],
+        "responses": [
+            "Kegiatan akademik ITERA mengikuti sistem semester dengan kalender akademik yang jelas. Satu tahun akademik terdiri dari 2 semester reguler (masing-masing 16-18 minggu) dan 1 semester pendek. Kurikulum ITERA dirancang berbasis KKNI (Kerangka Kualifikasi Nasional Indonesia) dengan metode pembelajaran aktif, project-based learning, dan case studies. Pembelajaran menggabungkan teori dan praktik melalui kuliah, diskusi, laboratorium, dan project real-world. Sistem SKS (Satuan Kredit Semester) memungkinkan fleksibilitas dalam pengambilan mata kuliah."
+        ]
+    },
+    {
+        "tag": "berita_terbaru_itera",
+        "patterns": [
+            "Berita ITERA terbaru apa?",
+            "Apa yang terjadi di ITERA?",
+            "Update ITERA terkini",
+            "Berita ITERA hari ini",
+            "Kejadian terbaru di ITERA",
+            "Info terkini ITERA"
+        ],
+        "responses": [
+            "ITERA terus berkembang dengan berbagai kegiatan dan prestasi terbaru. Untuk berita dan update terkini ITERA, silakan kunjungi halaman berita resmi di https://www.itera.ac.id/berita/. Anda juga dapat mengikuti media sosial ITERA atau menghubungi bagian Humas ITERA untuk informasi lengkap tentang kegiatan akademik, penelitian, dan pengabdian masyarakat terbaru."
+        ]
+    },
+    {
+        "tag": "wisuda_itera",
+        "patterns": [
+            "Wisuda ITERA kapan?",
+            "Acara wisuda ITERA",
+            "Kelulusan di ITERA",
+            "Bagaimana prosesi wisuda ITERA?",
+            "Ijazah digital ITERA"
+        ],
+        "responses": [
+            "ITERA menyelenggarakan acara wisuda secara berkala setiap tahunnya. Terbaru, ITERA resmi menerapkan Ijazah Digital bagi lulusan untuk meningkatkan kualitas layanan kelulusan dan akreditasi pendidikan. Untuk informasi jadwal wisuda dan prosedur kelulusan, silakan hubungi Pusat Administrasi Pendidikan atau kunjungi website ITERA di https://www.itera.ac.id."
+        ]
+    },
+    {
+        "tag": "teknik_perkeretaapian",
+        "patterns": [
+            "Teknik Perkeretaapian ITERA",
+            "Program studi kereta ITERA",
+            "Perkuliahan kereta api di ITERA",
+            "Satu-satunya program kereta",
+            "Manajemen kereta api ITERA"
+        ],
+        "responses": [
+            "Teknik Perkeretaapian adalah program studi UNIK dan SATU-SATUNYA di Indonesia yang ada di ITERA. Diresmikan pada 5 Agustus 2020, program ini fokus pada: Manajemen Kereta Api, Sistem Operasional KA, Infrastruktur Kereta Api, Teknologi Perkeretaapian, dan Transportasi Publik. Program ini dirancang untuk memenuhi kebutuhan SDM industri perkeretaapian Indonesia yang sedang berkembang pesat, terutama dengan adanya pembangunan jalur kereta cepat dan modernisasi kereta nasional."
+        ]
+    },
+    {
+        "tag": "rekayasa_kosmetik",
+        "patterns": [
+            "Rekayasa Kosmetik ITERA",
+            "Program kosmetik ITERA",
+            "Pendidikan kosmetik di ITERA",
+            "Satu-satunya program kosmetik Indonesia",
+            "Industri kecantikan ITERA"
+        ],
+        "responses": [
+            "Rekayasa Kosmetik adalah program studi UNIK dan SATU-SATUNYA di Indonesia yang ada di ITERA. Program ini merupakan pendidikan vokasional yang fokus pada: Formulasi Kosmetik, Teknologi Pembuatan Kosmetik, Standar Kualitas & Keamanan, Packaging & Branding, dan Manajemen Industri Kecantikan. Program ini membuka peluang besar bagi lulusan untuk bekerja di industri kecantikan dan perawatan yang sedang berkembang pesat di Indonesia."
+        ]
+    },
+    {
+        "tag": "sains_data_itera",
+        "patterns": [
+            "Sains Data ITERA",
+            "Program data science ITERA",
+            "Big data dan AI ITERA",
+            "Program sains data Indonesia",
+            "Data analytics ITERA"
+        ],
+        "responses": [
+            "Sains Data adalah program studi interdisipliner di ITERA yang menggabungkan Matematika, Statistik, Komputer, dan Domain Spesifik. Program ini fokus pada: Analisis Big Data, Machine Learning, Artificial Intelligence (AI), Data Visualization, Business Intelligence, dan Applied Statistics. Program Sains Data ITERA dirancang untuk memenuhi permintaan tinggi tenaga ahli data yang dibutuhkan industri modern, digital economy, dan pemerintahan."
+        ]
+    },
+    {
+        "tag": "sains_aktuaria",
+        "patterns": [
+            "Sains Aktuaria ITERA",
+            "Program aktuaria ITERA",
+            "Asuransi dan finansial ITERA",
+            "Profesi aktuaris ITERA",
+            "Statistik aktuaria ITERA"
+        ],
+        "responses": [
+            "Sains Aktuaria adalah program studi di ITERA yang mempersiapkan profesional di bidang asuransi, aktuaria, dan manajemen risiko finansial. Program ini fokus pada: Teori Aktuaria, Perhitungan Premi Asuransi, Manajemen Risiko, Investasi, Pension Planning, dan Sertifikasi PAI (Persatuan Aktuaris Indonesia). Lulusan program ini sangat dibutuhkan oleh industri asuransi, perbankan, dan lembaga keuangan di Indonesia."
+        ]
+    },
+    {
+        "tag": "teknik_informatika",
+        "patterns": [
+            "Teknik Informatika ITERA",
+            "Program TI ITERA",
+            "Ilmu komputer ITERA",
+            "Software engineering ITERA",
+            "Studi informatika ITERA"
+        ],
+        "responses": [
+            "Teknik Informatika di ITERA adalah program studi yang mempersiapkan lulusan menjadi profesional di bidang teknologi informasi dan software development. Program fokus pada: Pemrograman, Database, Networking, Cybersecurity, Web & Mobile Development, dan Software Engineering. Lulusan program ini siap bekerja di berbagai industri IT, startup teknologi, atau lanjut S2 di universitas terkemuka dunia."
+        ]
+    },
+    {
+        "tag": "teknik_elektro",
+        "patterns": [
+            "Teknik Elektro ITERA",
+            "Program elektro ITERA",
+            "Kelistrikan dan energi ITERA",
+            "Power system ITERA",
+            "Elektronika ITERA"
+        ],
+        "responses": [
+            "Teknik Elektro di ITERA adalah program studi yang mempersiapkan lulusan menjadi insinyur profesional di bidang kelistrikan dan energi. Program fokus pada: Power System, Energi Terbarukan, Power Electronics, Control Systems, Telecommunications, dan Electrical Machines. Lulusan program ini sangat diminati oleh industri energi, manufaktur, dan sektor kelistrikan nasional."
+        ]
+    },
+    {
+        "tag": "teknik_sipil",
+        "patterns": [
+            "Teknik Sipil ITERA",
+            "Program sipil ITERA",
+            "Konstruksi ITERA",
+            "Infrastruktur ITERA",
+            "Bangunan ITERA"
+        ],
+        "responses": [
+            "Teknik Sipil di ITERA adalah program studi yang mempersiapkan insinyur profesional di bidang infrastruktur dan konstruksi. Program fokus pada: Analisis Struktur, Teknologi Beton, Manajemen Proyek Konstruksi, Hidrolika, Geoteknik, dan Transportasi. Lulusan program ini siap bekerja pada proyek infrastruktur nasional, konstruksi komersial, atau konsultan teknik sipil."
+        ]
+    },
+    {
+        "tag": "arsitektur_itera",
+        "patterns": [
+            "Arsitektur ITERA",
+            "Program arsitektur ITERA",
+            "Desain bangunan ITERA",
+            "Perencanaan ruang ITERA",
+            "Arsitek profesional ITERA"
+        ],
+        "responses": [
+            "Arsitektur di ITERA adalah program studi yang mempersiapkan lulusan menjadi arsitek profesional. Program fokus pada: Desain Arsitektur, Perencanaan Ruang, CAD & BIM, Sustainability Architecture, dan Project Management. Program Arsitektur ITERA juga mempersiapkan pembukaan Pendidikan Profesi Arsitek untuk sertifikasi professional. Lulusan siap bekerja sebagai arsitek di firma desain, konstruksi, atau startup arsitektur digital."
+        ]
+    },
+    {
+        "tag": "teknik_mesin",
+        "patterns": [
+            "Teknik Mesin ITERA",
+            "Program mesin ITERA",
+            "Desain mesin ITERA",
+            "Manufaktur ITERA",
+            "Termodinamika ITERA"
+        ],
+        "responses": [
+            "Teknik Mesin di ITERA adalah program studi yang mempersiapkan insinyur mesin profesional. Program fokus pada: Desain Mesin, Termodinamika, Fluida Dinamika, Material Science, Manufaktur, dan Energi Terbarukan. Lulusan program ini siap bekerja di industri manufaktur, otomotif, energi, atau menjadi konsultan teknik mesin."
+        ]
+    },
+    {
+        "tag": "fisika_itera",
+        "patterns": [
+            "Fisika ITERA",
+            "Program fisika ITERA",
+            "Ilmu fisika ITERA",
+            "Penelitian fisika ITERA",
+            "Magister fisika ITERA"
+        ],
+        "responses": [
+            "Fisika di ITERA adalah program studi yang menawarkan pendidikan mendalam tentang prinsip-prinsip fisika. Program fokus pada: Mekanika Klasik, Termodinamika, Elektromagnetisme, Fisika Modern, Fisika Komputasi, dan Fisika Eksperimental. ITERA juga menawarkan program Magister Fisika untuk penelitian lanjutan. Lulusan dapat bekerja di industri teknologi, lembaga penelitian, atau melanjutkan S2/S3 di universitas ternama."
+        ]
+    },
+    {
+        "tag": "kimia_itera",
+        "patterns": [
+            "Kimia ITERA",
+            "Program kimia ITERA",
+            "Ilmu kimia ITERA",
+            "Laboratorium kimia ITERA",
+            "Sintesis kimia ITERA"
+        ],
+        "responses": [
+            "Kimia di ITERA adalah program studi yang menawarkan pendidikan komprehensif tentang ilmu kimia. Program fokus pada: Kimia Analitik, Kimia Organik, Kimia Anorganik, Biokimia, Kimia Fisik, dan Kimia Industri. Program ini didukung laboratorium modern dengan peralatan GC-MS dan HPLC terdepan. Lulusan dapat bekerja di industri kimia, farmasi, atau lembaga penelitian."
+        ]
+    },
+    {
+        "tag": "biologi_itera",
+        "patterns": [
+            "Biologi ITERA",
+            "Program biologi ITERA",
+            "Ilmu biologi ITERA",
+            "Konservasi biologi ITERA",
+            "Laboratorium biologi ITERA"
+        ],
+        "responses": [
+            "Biologi di ITERA adalah program studi yang mempersiapkan lulusan di bidang ilmu biologi dan bioteknologi. Program fokus pada: Zoologi, Botani, Ekologi, Mikrobiolgi, Genetika, Konservasi Biodiversitas, dan Bioteknologi. Program ini mendukung komitmen ITERA pada konservasi flora Sumatera melalui Kebun Raya 75 hektar. Lulusan dapat bekerja di bidang penelitian, konservasi, atau industri bioteknologi."
+        ]
+    },
+    {
+        "tag": "farmasi_itera",
+        "patterns": [
+            "Farmasi ITERA",
+            "Program farmasi ITERA",
+            "Pendidikan farmasi ITERA",
+            "Apoteker ITERA",
+            "Laboratorium farmasi ITERA"
+        ],
+        "responses": [
+            "Farmasi di ITERA adalah program studi yang mempersiapkan lulusan menjadi profesional farmasi dan apoteker. Program fokus pada: Teknologi Farmasi, Formulasi Obat, Farmakologi, Farmakokinetika, Analisis Obat, dan Farmasi Klinik. Program ini didukung laboratorium modern dan kerjasama dengan industri farmasi. Lulusan dapat bekerja sebagai apoteker di apotek, rumah sakit, atau industri farmasi."
+        ]
+    },
+    {
+        "tag": "perencanaan_wilayah",
+        "patterns": [
+            "Perencanaan Wilayah ITERA",
+            "Program PWK ITERA",
+            "Tata ruang ITERA",
+            "Urban planning ITERA",
+            "Perencanaan kota ITERA"
+        ],
+        "responses": [
+            "Perencanaan Wilayah dan Kota (PWK) di ITERA adalah program studi yang mempersiapkan lulusan menjadi perencana profesional. Program fokus pada: Perencanaan Kota, Tata Ruang Wilayah, Analisis Spasial, Sustainable Urban Development, Infrastruktur Perkotaan, dan Regional Development. Lulusan dapat bekerja di pemerintah daerah, konsultan perencanaan, atau organisasi pengembangan berkelanjutan."
+        ]
+    },
+    {
+        "tag": "teknik_lingkungan",
+        "patterns": [
+            "Teknik Lingkungan ITERA",
+            "Program lingkungan ITERA",
+            "Pengelolaan lingkungan ITERA",
+            "Pengolahan limbah ITERA",
+            "Water treatment ITERA"
+        ],
+        "responses": [
+            "Teknik Lingkungan di ITERA adalah program studi yang fokus pada penyelesaian masalah lingkungan. Program fokus pada: Pengolahan Air Limbah, Air Minum, Pengelolaan Limbah Padat, Kualitas Udara, Analisis Dampak Lingkungan, dan Environmental Sustainability. Program ini sejalan dengan komitmen ITERA sebagai Green Campus. Lulusan dapat bekerja di perusahaan utilitas, industri, atau organisasi lingkungan."
+        ]
+    },
+    {
+        "tag": "geomatika_itera",
+        "patterns": [
+            "Teknik Geomatika ITERA",
+            "Geomatika ITERA",
+            "Pemetaan ITERA",
+            "GIS dan survey ITERA",
+            "Teknologi geospasial ITERA"
+        ],
+        "responses": [
+            "Teknik Geomatika di ITERA adalah program studi yang fokus pada teknologi pemetaan dan informasi geospasial. Program fokus pada: Fotogrametri, GIS (Geographic Information System), Survey dan Pemetaan, Remote Sensing, Peraturan Tata Ruang, dan Manajemen Bencana. Program ini mendukung perencanaan wilayah dan manajemen bencana nasional. Lulusan dapat bekerja di lembaga survey, pemerintah, atau perusahaan konsultan geospasial."
+        ]
+    },
+    {
+        "tag": "desain_komunikasi_visual",
+        "patterns": [
+            "Desain Komunikasi Visual ITERA",
+            "DKV ITERA",
+            "Program desain ITERA",
+            "Grafis design ITERA",
+            "Komunikasi visual ITERA"
+        ],
+        "responses": [
+            "Desain Komunikasi Visual (DKV) di ITERA adalah program studi yang mempersiapkan desainer profesional. Program fokus pada: Graphic Design, Advertising, Branding, Animation, Fotografi, Media Design, dan User Interface Design. Program ini mendukung industri kreatif yang sedang berkembang. Lulusan dapat bekerja di agensi desain, media, atau membuka studio kreatif sendiri."
+        ]
+    },
+    {
+        "tag": "teknik_geofisika",
+        "patterns": [
+            "Teknik Geofisika ITERA",
+            "Geofisika ITERA",
+            "Eksplorasi minyak gas ITERA",
+            "Seismic dan gravity ITERA",
+            "Penambangan ITERA"
+        ],
+        "responses": [
+            "Teknik Geofisika di ITERA adalah program studi yang fokus pada aplikasi fisika untuk eksplorasi bumi. Program fokus pada: Metode Seismic, Gravitasi dan Magnetik, Resistivity, Geotermal, Mitigasi Bencana, dan Eksplorasi Minyak & Gas. Program ini didukung fasilitas lab modern dan penelitian. Lulusan dapat bekerja di industri migas, pertambangan, atau lembaga geologi."
+        ]
+    },
+    {
+        "tag": "greeting",
+        "patterns": [
+            "Halo",
+            "Hi",
+            "Hai",
+            "Assalamualaikum",
+            "Selamat pagi",
+            "Selamat siang",
+            "Selamat sore",
+            "Selamat malam",
+            "Permisi",
+            "Hello",
+            "Hey",
+            "Apa kabar?"
+        ],
+        "responses": [
+            "Halo! Saya Chatbot ITERA. Ada yang bisa saya bantu tentang informasi Institut Teknologi Sumatera?",
+            "Hi! Selamat datang di Chatbot ITERA. Silakan tanyakan apa saja tentang ITERA, program studi, fasilitas, atau informasi lainnya!",
+            "Hai! Saya siap membantu Anda dengan informasi lengkap seputar ITERA. Ada yang ingin ditanyakan?"
+        ]
+    },
+    {
+        "tag": "goodbye",
+        "patterns": [
+            "Terima kasih",
+            "Thanks",
+            "Makasih",
+            "Sampai jumpa",
+            "Bye",
+            "Dadah",
+            "Selesai",
+            "Cukup",
+            "Oke terima kasih",
+            "Sudah cukup",
+            "Sekian",
+            "See you",
+            "Wassalam"
+        ],
+        "responses": [
+            "Sama-sama! Semoga informasinya bermanfaat. Jangan ragu untuk bertanya lagi kapan saja!",
+            "Terima kasih sudah menggunakan Chatbot ITERA. Sampai jumpa lagi!",
+            "Senang bisa membantu! Jika ada pertanyaan lagi tentang ITERA, silakan hubungi saya. Wassalam!"
+        ]
+    },
+    {
+        "tag": "ijazah_digital",
+        "patterns": [
+            "ITERA terapkan ijazah digital",
+            "Ijazah digital ITERA",
+            "Wisuda ITERA terbaru",
+            "ITERA modernisasi ijazah",
+            "Sertifikat digital lulusan ITERA"
+        ],
+        "responses": [
+            "ITERA telah resmi menerapkan Ijazah Digital bagi lulusan sejak Wisuda Periode ke-23 (November 2025). Ini adalah langkah modernisasi sistem kelulusan untuk meningkatkan kualitas layanan dan akreditasi pendidikan. Ijazah digital memudahkan verifikasi dan berbagi credentials secara digital."
+        ]
+    },
+    {
+        "tag": "kerjasama_internasional",
+        "patterns": [
+            "ITERA kerjasama dengan negara apa?",
+            "ITERA kolaborasi internasional",
+            "Kerjasama ITERA dengan luar negeri",
+            "ITERA partnership dengan universitas luar negeri",
+            "ITERA dan Prancis",
+            "ITERA dan Korea",
+            "ITERA dan Turki"
+        ],
+        "responses": [
+            "ITERA memiliki kerjasama internasional yang kuat: (1) Prancis - kolaborasi dengan Kedutaan Besar Prancis di bidang akademik dan riset. (2) Korea - pembahasan pendirian Korea Corner untuk pertukaran budaya dan pendidikan. (3) Turki - kerjasama dengan Karadeniz Technical University dalam penelitian penyimpanan karbon dan infrastruktur teknik. Kerjasama ini terus berkembang untuk meningkatkan standar akademik global."
+        ]
+    },
+    {
+        "tag": "dies_natalis",
+        "patterns": [
+            "Dies natalis ITERA",
+            "Hari jadi ITERA",
+            "Perayaan dies natalis ITERA",
+            "Embung party ITERA",
+            "Ulang tahun ITERA"
+        ],
+        "responses": [
+            "Dies Natalis ITERA ke-11 (November 2025) dirayakan dengan berbagai kegiatan meriah, salah satunya Embung Party yang menampilkan kebersamaan sivitas akademika. Perayaan dies natalis ITERA menjadi momentum refleksi pertumbuhan kampus yang berdampak dan berdaya guna bagi pembangunan Sumatera dan Indonesia."
+        ]
+    },
+    {
+        "tag": "inkubator_bisnis",
+        "patterns": [
+            "Inkubator bisnis ITERA",
+            "ITERA hilirisasi riset",
+            "Entrepreneur hub ITERA",
+            "ITERA startup",
+            "Pusat inovasi ITERA"
+        ],
+        "responses": [
+            "Inkubator Bisnis ITERA adalah akselerator hilirisasi riset di Sumatera yang mengubah inovasi penelitian menjadi produk/jasa komersial. Bekerja sama dengan Kementerian UMKM, ITERA menyelenggarakan Entrepreneur Hub untuk mendorong mahasiswa dan dosen berwirausaha. Program ini menggabungkan teknologi dan kreativitas dalam mengembangkan ekosistem entrepreneurship kampus."
+        ]
+    },
+    {
+        "tag": "ppkpt_kampus_aman",
+        "patterns": [
+            "ITERA kampus aman",
+            "Satgas PPKPT ITERA",
+            "Pencegahan kekerasan ITERA",
+            "Kampus inklusif ITERA",
+            "Program keselamatan kampus"
+        ],
+        "responses": [
+            "Satgas PPKPT (Satuan Tugas Pencegahan dan Penanganan Pelecehan, Kekerasan Seksual, dan Pelecehan Berbasis Gender) ITERA berkomitmen mewujudkan kampus aman dan inklusif. Program ini meliputi sosialisasi KKN, lokakarya nasional, dan edukasi mahasiswa tentang pencegahan kekerasan. ITERA juga mengintegrasikan pembelajaran kesehatan mental dan program advokasi kesejahteraan mahasiswa."
+        ]
+    },
+    {
+        "tag": "kkn_itera",
+        "patterns": [
+            "KKN ITERA",
+            "Kuliah Kerja Nyata ITERA",
+            "Program KKN mahasiswa",
+            "KKN ke-16 ITERA",
+            "Lokasi KKN ITERA"
+        ],
+        "responses": [
+            "Kuliah Kerja Nyata (KKN) ITERA adalah program pengabdian kepada masyarakat yang wajib diikuti mahasiswa. KKN Periode ke-16 (Oktober 2025) melibatkan kolaborasi ITERA dengan tiga kabupaten di Lampung untuk pemberdayaan masyarakat. Melalui KKN, mahasiswa mengaplikasikan ilmu dan teknologi untuk solusi nyata desa, menghasilkan inovasi seperti produk pangan, energy terbarukan, dan pemberdayaan ekonomi."
+        ]
+    },
+    {
+        "tag": "teleskop_astronomi",
+        "patterns": [
+            "Teleskop ITERA",
+            "Teleskop fotografi astronomi",
+            "Pengamatan benda langit ITERA",
+            "Kampus pembuat teleskop",
+            "Observatorium ITERA terbaru"
+        ],
+        "responses": [
+            "ITERA adalah satu-satunya kampus di Indonesia yang mampu membuat teleskop fotografi untuk astronomi. Dengan teleskop ini, ITERA berhasil melakukan pengamatan langit Lampung. Program ini melibatkan kolaborasi Fisika dan Atmosfer & Keplanetan. ITERA juga mengadakan pengamatan matahari dan benda langit di sekolah-sekolah untuk literasi sains komunitas."
+        ]
+    },
+    {
+        "tag": "paten_inovasi",
+        "patterns": [
+            "Paten ITERA",
+            "Inovasi ITERA",
+            "Target paten ITERA",
+            "Riset dan pengembangan ITERA",
+            "Teknologi ITERA"
+        ],
+        "responses": [
+            "Rektor ITERA menargetkan setiap program studi menghasilkan minimal satu paten per tahun. ITERA telah mengembangkan berbagai inovasi: teknologi tambak udang cerdas, tepung MOCAF dari singkong, produk kosmetik, energi terbarukan (biogas, PLTS), teknologi pangan, dan solusi lingkungan. Inovasi ini difasilitasi melalui Inkubator Bisnis dan LPPM ITERA."
+        ]
+    },
+    {
+        "tag": "pertukaran_pelajar",
+        "patterns": [
+            "Pertukaran pelajar ITERA",
+            "Program studi lanjut ITERA",
+            "Scholarship ITERA",
+            "Peluang S2/S3 ITERA",
+            "Beasiswa studi Eropa"
+        ],
+        "responses": [
+            "ITERA memfasilitasi mahasiswa dan dosen untuk mengenal peluang studi lanjut ke Eropa melalui program pertukaran dan beasiswa. Kolaborasi dengan universitas Eropa membuka kesempatan S2/S3 bagi lulusan ITERA dengan beasiswa penuh. Program ini meningkatkan mobilitas akademik dan daya saing global sivitas akademika ITERA."
+        ]
+    },
+    {
+        "tag": "kesehatan_mental_mahasiswa",
+        "patterns": [
+            "Kesehatan mental ITERA",
+            "Program mental health kampus",
+            "Konseling mahasiswa ITERA",
+            "Workshop kesehatan mental"
+        ],
+        "responses": [
+            "ITERA berkomitmen menjaga kesehatan mental sivitas akademika melalui: PPSDM yang mengadakan seminar kesehatan mental bersama dosen konten kreator ITB, Advokesma dan Satgas PPKPT yang mempromosikan kampus sehat mental, dan layanan konseling profesional. Program ini diintegrasikan dalam pembelajaran dan kegiatan kemahasiswaan untuk kesejahteraan holistik."
+        ]
+    },
+    {
+        "tag": "mangrove_konservasi",
+        "patterns": [
+            "ITERA mangrove",
+            "Konservasi mangrove ITERA",
+            "Pulau Pahawang ITERA",
+            "Perlindungan pantai alami",
+            "Program kelautan ITERA"
+        ],
+        "responses": [
+            "ITERA melaksanakan program konservasi mangrove di Pulau Pahawang dan desa pesisir lainnya. Tim ITERA mendampingi warga melestarikan mangrove untuk perlindungan pantai alami. Program ini juga mengembangkan souvenir mangrove sebagai produk bernilai tambah. Kegiatan ini sejalan dengan komitmen ITERA pada sustainability dan pemberdayaan masyarakat pesisir."
+        ]
+    },
+    {
+        "tag": "prodi_baru_sosial_humaniora",
+        "patterns": [
+            "Prodi sosial humaniora ITERA",
+            "Program studi baru ITERA",
+            "Sosial humaniora berbasis STEM",
+            "Prodi rumpun sosial",
+            "Ekspansi prodi ITERA"
+        ],
+        "responses": [
+            "ITERA sedang mengembangkan program studi rumpun Sosial Humaniora berbasis STEM, mencerminkan evolusi kampus yang tidak hanya fokus pada teknologi murni. Program ini dirancang untuk menghasilkan profesional yang mampu mengintegrasikan perspektif sosial-humanis dalam solusi teknologi, sesuai kebutuhan pembangunan berkelanjutan."
+        ]
+    },
+    {
+        "tag": "duta_itera",
+        "patterns": [
+            "Duta ITERA",
+            "Duta ITERA 2025",
+            "Program duta kampus",
+            "Representatif ITERA",
+            "Saskia Marsha",
+            "Necky Pedrosa"
+        ],
+        "responses": [
+            "Duta ITERA 2025 adalah Saskia Marsha dan Necky Pedrosa yang terpilih melalui seleksi ketat. Mereka merepresentasikan ITERA dalam berbagai kegiatan akademik, sosial, dan promosi kampus. Program duta ITERA bertujuan membangun jembatan komunikasi antara kampus dan komunitas serta menunjukkan komitmen sivitas pada excellence dan leadership."
+        ]
+    },
+    {
+        "tag": "inovasi_pangan",
+        "patterns": [
+            "Inovasi pangan ITERA",
+            "Teknologi pangan ITERA",
+            "Tepung MOCAF ITERA",
+            "Smart farming ITERA",
+            "Pertanian inovatif ITERA"
+        ],
+        "responses": [
+            "ITERA mengembangkan berbagai inovasi pangan: Tepung MOCAF (Modified Cassava Flour) untuk kesejahteraan petani singkong Lampung, Smart Farming System untuk pertanian cerdas (contoh: melon organik berkualitas tinggi), dan produk pangan lokal bernilai tambah. Kolaborasi ITERA dan ITB juga menghadirkan inovasi pangan dan pertanian tepat guna di Lampung Barat."
+        ]
+    },
+    {
+        "tag": "dosen_berdampak",
+        "patterns": [
+            "Dosen ITERA berdampak",
+            "Penelitian dosen ITERA",
+            "Pengabdian dosen ITERA",
+            "Program pemberdayaan masyarakat",
+            "Kontribusi dosen kampus"
+        ],
+        "responses": [
+            "Dosen ITERA aktif melakukan penelitian dan pengabdian berdampak: (1) Teknik Lingkungan - edukasi komposting takakura untuk lingkungan. (2) Biologi - pencegahan stunting dan edukasi gizi. (3) Teknik Kimia - inovasi limbah jadi pupuk. (4) Arsitektur - desain masjid berbasis kearifan lokal. (5) Pariwisata - tata ruang wisata berkelanjutan. Setiap prodi berkontribusi nyata untuk masyarakat."
+        ]
+    },
+    {
+        "tag": "stem_education",
+        "patterns": [
+            "STEM ITERA",
+            "Edukasi STEM",
+            "Program literasi sains",
+            "STEM board",
+            "Pembelajaran STEM kampus"
+        ],
+        "responses": [
+            "ITERA aktif menyebarkan literasi STEM ke komunitas melalui: Pengamatan matahari dan benda langit di sekolah, STEM Board untuk pengenalan sains & teknologi pelajar, robotika untuk minat STEM, workshop programming untuk siswa SMK, dan berbagai pelatihan AI. Program ini mendukung visi ITERA sebagai kampus yang memberdayakan Sumatera melalui teknologi dan inovasi."
+        ]
+    },
+    {
+        "tag": "kampus_berdampak_mbkm",
+        "patterns": [
+            "ITERA kampus berdampak",
+            "MBKM ITERA",
+            "Merdeka belajar kampus merdeka",
+            "Program beasiswa kampus merdeka",
+            "Keterlibatan masyarakat ITERA"
+        ],
+        "responses": [
+            "Program ITERA Kampus Berdampak (MBKM - Merdeka Belajar Kampus Merdeka) dirancang untuk keterlibatan aktif mahasiswa dalam riset, pengabdian, magang industri, dan kewirausahaan yang berdampak nyata pada masyarakat. Mahasiswa dapat mengalokasikan hingga 1-2 semester untuk pembelajaran di luar kelas melalui proyek-proyek sosial, penelitian, atau inkubasi bisnis."
+        ]
+    },
+    {
+        "tag": "prestasi_olahraga",
+        "patterns": [
+            "Prestasi olahraga ITERA",
+            "Tim karate ITERA",
+            "Kejuaraan olahraga ITERA",
+            "Atlet ITERA",
+            "Olahraga internasional ITERA"
+        ],
+        "responses": [
+            "Tim karate ITERA meraih prestasi internasional: 6 emas dan 1 perak di Kejuaraan Internasional UNS 2025. Kolaborasi ITERA dan KONI Lampung juga memperkuat ekosistem olahraga di Lampung. Program olahraga ITERA mendukung pengembangan atlet berprestasi sambil menjaga akademik, mencerminkan komitmen pada keseimbangan excellence akademik dan non-akademik."
+        ]
+    },
+    {
+        "tag": "sertifikasi_dosen",
+        "patterns": [
+            "Sertifikasi dosen ITERA",
+            "Kualifikasi dosen ITERA",
+            "Dosen internasional ITERA",
+            "Peningkatan kompetensi dosen",
+            "Standar mutu dosen"
+        ],
+        "responses": [
+            "21 Dosen Fakultas Teknologi Infrastruktur & Kewilayahan (FTIK) ITERA meraih sertifikasi internasional untuk memperkuat mutu internal dan daya saing global. Program pengembangan SDM dosen mencakup pelatihan preseptor, workshop keterampilan, dan sertifikasi profesional. Ini memastikan standar pembelajaran berkualitas tinggi setara universitas terkemuka dunia."
+        ]
+    },
+    {
+        "tag": "kesejahteraan_pegawai",
+        "patterns": [
+            "Pegawai ITERA",
+            "Pengangkatan PPPK ITERA",
+            "Kesejahteraan karyawan ITERA",
+            "Status kepegawaian ITERA"
+        ],
+        "responses": [
+            "ITERA meningkatkan kesejahteraan pegawai melalui pengangkatan 268 pegawai sebagai PPPK (Pegawai Pemerintah dengan Perjanjian Kerja) pada Oktober 2025. Program ini memberikan status dan perlindungan kerja yang lebih baik. ITERA berkomitmen menjadi institusi yang menyejahterakan seluruh sivitas akademika termasuk tenaga kependidikan."
+        ]
+    },
+    {
+        "tag": "pendidikan_profesi",
+        "patterns": [
+            "Pendidikan profesi ITERA",
+            "Profesi arsitek ITERA",
+            "Program profesional ITERA",
+            "Sertifikasi profesional",
+            "Pendidikan profesi kesehatan"
+        ],
+        "responses": [
+            "ITERA sedang mempersiapkan pembukaan Pendidikan Profesi Arsitek (PSPPA) melalui studi banding ke UGM dan Atma Jaya. Program ini akan mempersiapkan lulusan S1 Arsitektur untuk mendapatkan sertifikasi dan lisensi profesional arsitek. Pelatihan preseptor telah dilaksanakan untuk memastikan kualitas pembelajaran profesional yang tinggi."
+        ]
+    },
+    {
+        "tag": "literasi_keuangan",
+        "patterns": [
+            "Literasi keuangan ITERA",
+            "Edukasi finansial kampus",
+            "Pinjol dan literasi",
+            "Edukasi perencanaaan keuangan",
+            "Aktuaria ITERA"
+        ],
+        "responses": [
+            "Sains Aktuaria dan dosen ITERA aktif meningkatkan literasi keuangan komunitas: edukasi penghindaran jeratan pinjol (pinjaman online), perencanaan keuangan, dan investasi yang aman. Program ini ditargetkan kepada pelajar dan masyarakat umum. ITERA percaya literasi finansial adalah kunci pemberdayaan ekonomi masyarakat lokal."
+        ]
+    },
+    {
+        "tag": "korea_corner",
+        "patterns": [
+            "Korea corner ITERA",
+            "Kedutaan Korea ITERA",
+            "Kerjasama Korea Selatan",
+            "Budaya Korea di kampus"
+        ],
+        "responses": [
+            "ITERA dan Kedutaan Besar Korea membahas pendirian Korea Corner sebagai ruang pertukaran budaya, bahasa, dan akademik. Inisiatif ini membuka akses mahasiswa ITERA pada pembelajaran bahasa Korea, budaya, dan peluang beasiswa/magang di Korea. Program ini memperkaya diversitas akademik dan hubungan internasional kampus."
+        ]
+    },
+    {
+        "tag": "akreditasi_prodi",
+        "patterns": [
+            "Akreditasi program studi ITERA",
+            "Status akreditasi prodi",
+            "Perangkingan program studi",
+            "Sertifikasi internasional prodi"
+        ],
+        "responses": [
+            "Setiap program studi ITERA mengikuti proses akreditasi nasional melalui BAN-PT dan akreditasi internasional. Fokus pada mutu pembelajaran, riset, dan pengabdian memastikan standar excellence. ITERA menargetkan seluruh prodi mencapai akreditasi 'A' (Unggul) dalam waktu dekat untuk daya saing global."
+        ]
+    },
+    {
+        "tag": "simposium_geomatika",
+        "patterns": [
+            "Simposium geomatika ITERA",
+            "SIGER 2025",
+            "Teknologi geospasial",
+            "Manajemen bencana geomatika",
+            "Konferensi geospasial"
+        ],
+        "responses": [
+            "Prodi Geomatika ITERA menyelenggarakan Simposium Geomatika (SIGER) 2025 yang membahas pemanfaatan teknologi geospasial untuk manajemen bencana nasional. Forum ini menghadirkan ahli, praktisi, dan pemangku kepentingan untuk diskusi integrasi GIS, remote sensing, dan pemetaan dalam mitigasi bencana. ITERA menjadi pionir dalam literasi geospasial untuk resiliensi Indonesia."
+        ]
+    },
+    {
+        "tag": "biomedis_inovasi",
+        "patterns": [
+            "Teknik biomedis ITERA",
+            "Inovasi biomedis",
+            "Ajang internasional biomedis",
+            "BSEE Malaysia",
+            "Prestasi biomedis"
+        ],
+        "responses": [
+            "Tim Teknik Biomedis ITERA meraih emas dan perunggu di ajang internasional BSEE (Biomedical and Sustainable Engineering Exhibition) 2025 di Malaysia. Inovasi biomedis ITERA mencakup pengembangan alat kesehatan, teknologi medis, dan sistem biomedik yang inovatif untuk meningkatkan kualitas hidup masyarakat."
+        ]
+    },
+    {
+        "tag": "laboratorium_standar",
+        "patterns": [
+            "Laboratorium ITERA standar",
+            "ISO 17025",
+            "Manajemen mutu lab",
+            "Sertifikasi laboratorium",
+            "Peralatan lab modern"
+        ],
+        "responses": [
+            "UPA Laboratorium ITERA terus meningkatkan manajemen mutu menuju standar ISO 17025 (akreditasi laboratorium pengujian internasional). Laboratorium ITERA dilengkapi peralatan canggih seperti GC-MS, HPLC, dan teknologi analisis modern lainnya. Komitmen ini menjamin hasil uji berkualitas tinggi dan kredibel untuk penelitian dan layanan analitik."
+        ]
+    },
+    {
+        "tag": "data_center_industri",
+        "patterns": [
+            "Data center ITERA",
+            "Pengelolaan data center",
+            "Infrastruktur IT ITERA",
+            "Cloud computing",
+            "Keamanan siber"
+        ],
+        "responses": [
+            "Mahasiswa Teknik Informatika ITERA melakukan studi ekskursi ke data center industri dan Pusat Data Telematika KPU RI untuk mempelajari pengelolaan infrastruktur IT modern. Pembelajaran praktik ini membekali mahasiswa dengan kompetensi cloud computing, cybersecurity, dan manajemen data center yang dibutuhkan industri digital."
+        ]
+    },
+    {
+        "tag": "air_tanah_geofisika",
+        "patterns": [
+            "Geofisika air tanah",
+            "Eksplorasi air tanah",
+            "Teknik geofisika ITERA",
+            "Stadion Natar",
+            "Survey geofisika"
+        ],
+        "responses": [
+            "Tim Geofisika ITERA mengidentifikasi zona potensial air tanah di lokasi rencana Stadion Natar menggunakan teknologi geofisika terkini. Penelitian ini menunjukkan aplikasi praktis geofisika untuk pembangunan infrastruktur. Teknik Geofisika ITERA aktif berkontribusi pada proyek-proyek vital daerah dan nasional."
+        ]
+    },
+    {
+        "tag": "ecoprint_seni",
+        "patterns": [
+            "Ecoprint ITERA",
+            "Ecoprint seni",
+            "Seni ramah lingkungan",
+            "Pulau Pahawang ITERA",
+            "Kreativitas berkelanjutan"
+        ],
+        "responses": [
+            "Dosen dan Mahasiswa Teknologi Industri Pertanian (TIP) ITERA mengajak siswa SMA Pulau Pahawang berkreasi dengan Ecoprint - teknik cetak ramah lingkungan menggunakan daun dan tumbuhan alami. Program ini menggabungkan seni, lingkungan, dan pemberdayaan komunitas pesisir dalam pembelajaran praktis."
+        ]
+    },
+    {
+        "tag": "robotika_pendidikan",
+        "patterns": [
+            "Robotika ITERA",
+            "Program robotika kampus",
+            "Dasar robotika",
+            "Teknik elektro robotika",
+            "Pendidikan STEM robotika"
+        ],
+        "responses": [
+            "Prodi Teknik Elektro ITERA menggelar program pengenalan dasar robotika kepada siswa SMA/SMK untuk menumbuhkan minat STEM. Program ini mengajarkan dasar-dasar elektronika, programming, dan mekanik melalui project-based learning. ITERA percaya robotika adalah gateway menuju karir teknologi dan inovasi masa depan."
+        ]
+    },
+    {
+        "tag": "animasi_3d_budaya",
+        "patterns": [
+            "Animasi 3D ITERA",
+            "Cerita rakyat Lampung",
+            "Konservasi budaya lokal",
+            "Animasi tradisional",
+            "Digital storytelling"
+        ],
+        "responses": [
+            "Dosen ITERA mentransformasi cerita rakyat Lampung menjadi animasi 3D berkualitas tinggi sebagai upaya pelestarian budaya lokal. Proyek ini menggabungkan teknologi digital dengan nilai budaya, menghasilkan konten edukatif dan hiburan yang mempromosikan warisan budaya Lampung ke generasi muda dan pasar global."
+        ]
+    },
+    {
+        "tag": "budaya_ukm",
+        "patterns": [
+            "UKM budaya ITERA",
+            "Pelestarian budaya kampus",
+            "UKM Minang ITERA",
+            "Kegiatan seni budaya",
+            "Komunitas budaya"
+        ],
+        "responses": [
+            "UKM Minang ITERA memperkuat pelestarian budaya dan identitas budaya Minangkabau di tanah rantau Lampung. Melalui kegiatan seni, tari, musik, dan tradisi, UKM ini membangun jembatan budaya antar mahasiswa dari berbagai daerah dan mempromosikan kearifan lokal Nusantara di kampus."
+        ]
+    },
+    {
+        "tag": "kepemimpinan_transformasional",
+        "patterns": [
+            "Kepemimpinan transformasional",
+            "Program kepemimpinan ITERA",
+            "Leadership seminar",
+            "Pengembangan pemimpin",
+            "Kepemimpinan kampus"
+        ],
+        "responses": [
+            "ITERA menghadirkan Prof Kadarsah Suryadi untuk membahas kepemimpinan transformasional dalam seminar kampus. Program pengembangan kepemimpinan ini dirancang untuk mempersiapkan mahasiswa menjadi pemimpin yang visioner, inspiratif, dan mampu membawa perubahan positif di organisasi dan masyarakat."
+        ]
+    },
+    {
+        "tag": "kompetisi_akademik",
+        "patterns": [
+            "Kompetisi akademik ITERA",
+            "KMHE ITERA",
+            "NUDC kompetisi",
+            "KDMI kompetisi",
+            "Olimpiad dan lomba"
+        ],
+        "responses": [
+            "ITERA mendukung penuh kontingen mahasiswa dalam kompetisi nasional: KMHE (Kompetisi Moot Court Hukum Ekonomi), NUDC (National University Debating Championship), dan KDMI (Kompetisi Debat Mahasiswa Indonesia). Dukungan ini mencakup pendanaan, pelatihan, dan fasilitas untuk mengembangkan keterampilan argument, komunikasi, dan leadership mahasiswa."
+        ]
+    },
+    {
+        "tag": "tsunami_edukasi",
+        "patterns": [
+            "Edukasi tsunami ITERA",
+            "Kesiapsiagaan bencana alam",
+            "Geofisika bencana",
+            "Edukasi pesisir",
+            "Mitigasi bencana"
+        ],
+        "responses": [
+            "Mahasiswa dan Dosen Teknik Geofisika ITERA mengedukasi siswa pesisir tentang kesiapsiagaan tsunami dan mitigasi bencana alam. Program ini mengajarkan pemahaman geologis, teknologi early warning, dan protokol evakuasi untuk meningkatkan resiliensi komunitas pesisir menghadapi bencana alam."
+        ]
+    },
+    {
+        "tag": "bahasa_inggris",
+        "patterns": [
+            "UPA Bahasa ITERA",
+            "Bahasa Inggris ITERA",
+            "Workshop bahasa",
+            "Public speaking ITERA",
+            "Literasi bahasa kampus"
+        ],
+        "responses": [
+            "UPA Bahasa ITERA dan The Mangrove Global menggelar workshop bulan bahasa untuk meningkatkan kompetensi bahasa dosen, tenaga kependidikan, dan mahasiswa. Program ini mencakup pelatihan public speaking, komunikasi profesional, dan literasi bahasa lokal-internasional. ITERA percaya bahasa adalah kunci komunikasi global dan kepemimpinan."
+        ]
+    },
+    {
+        "tag": "revit_cad_design",
+        "patterns": [
+            "Revit ITERA",
+            "CAD design training",
+            "Software desain bangunan",
+            "BIM ITERA",
+            "Pelatihan software arsitektur"
+        ],
+        "responses": [
+            "Prodi Arsitektur ITERA menglatih siswa SMK menguasai aplikasi Revit untuk desain bangunan digital (BIM - Building Information Modeling). Pelatihan ini membekali pelajar dengan skill industri yang sangat diminati. ITERA berperan sebagai lembaga pemberdayaan SDM untuk industri kreatif dan konstruksi nasional."
+        ]
+    },
+    {
+        "tag": "looker_studio",
+        "patterns": [
+            "Looker Studio ITERA",
+            "Data visualization",
+            "Business intelligence",
+            "Analytics dashboard",
+            "Sains data tools"
+        ],
+        "responses": [
+            "Prodi Sains Data ITERA melatih siswa SMK Negeri 7 Bandar Lampung menggunakan Looker Studio untuk data visualization dan business intelligence. Pelatihan literasi data sejak dini ini mempersiapkan generasi muda untuk industri data-driven. ITERA menjadi pelopor dalam pendidikan data science di Lampung."
+        ]
+    },
+    {
+        "tag": "dashboard_itera",
+        "patterns": [
+            "Dashboard ITERA",
+            "Data ITERA dimana?",
+            "Satu Data ITERA",
+            "Link dashboard ITERA",
+            "Akses data ITERA",
+            "Website data ITERA",
+            "Portal data ITERA",
+            "Statistik ITERA online",
+            "ITERA dashboard data"
+        ],
+        "responses": [
+            "ITERA menyediakan Dashboard Satu Data yang dapat diakses di https://data.itera.ac.id untuk melihat statistik lengkap tentang mahasiswa, dosen, tenaga kependidikan, penelitian & pengabdian, serta publikasi. Dashboard ini menampilkan data real-time dan grafik untuk memudahkan akses informasi publik tentang ITERA."
+        ]
+    },
+    {
+        "tag": "siakad_itera",
+        "patterns": [
+            "Siakad ITERA",
+            "Sistem akademik ITERA",
+            "Link siakad ITERA",
+            "Login siakad ITERA",
+            "Akses siakad ITERA",
+            "Portal akademik ITERA",
+            "Website siakad ITERA"
+        ],
+        "responses": [
+            "Sistem Informasi Akademik (SIAKAD) ITERA adalah portal online untuk mahasiswa dan dosen mengakses layanan akademik seperti registrasi, KRS, nilai, jadwal kuliah, dan informasi akademik lainnya. SIAKAD dapat diakses melalui website resmi ITERA atau langsung di portal yang disediakan untuk civitas akademika."
+        ]
+    },
+    {
+        "tag": "biogas_energi",
+        "patterns": [
+            "Biogas ITERA",
+            "Energi terbarukan desa",
+            "Limbah biogas",
+            "Desa mandiri energi",
+            "Teknologi biogas"
+        ],
+        "responses": [
+            "Mahasiswa ITERA mengembangkan teknologi biogas dari limbah sapi dan pertanian untuk mewujudkan desa mandiri energi. Program ini menunjukkan aplikasi riset untuk pemberdayaan desa. Biogas adalah solusi energi terbarukan lokal yang mudah diakses dan berkelanjutan, sejalan dengan visi green campus ITERA."
+        ]
+    },
+    {
+        "tag": "dim_itera",
+        "patterns": [
+            "DIM ITERA itu apa?",
+            "Data Induk Mahasiswa ITERA",
+            "Login DIM ITERA",
+            "Cara isi DIM ITERA",
+            "DIM mahasiswa baru ITERA",
+            "Link DIM ITERA",
+            "Panduan DIM ITERA"
+        ],
+        "responses": [
+            "DIM (Data Induk Mahasiswa) adalah sistem untuk calon mahasiswa baru ITERA mengisi data pribadi dan berkas pendukung. Login awal menggunakan nomor pendaftaran sebagai username dan tanggal lahir (ddmmyyyy) sebagai password. DIM dapat diakses di https://dim.itera.ac.id. Pastikan mengisi data dengan benar dan simpan password dengan baik. Jangan berikan akun DIM ke siapa pun!"
+        ]
+    },
+    {
+        "tag": "fisika_kuantum",
+        "patterns": [
+            "Fisika kuantum ITERA",
+            "Seminar fisika modern",
+            "Alam semesta ITERA",
+            "Pelajaran fisika lanjutan",
+            "Fisikawan tamu"
+        ],
+        "responses": [
+            "Prodi Fisika ITERA menghadirkan fisikawan terkemuka dari IPB untuk membahas fisika dari skala kuantum hingga alam semesta. Seminar ini menginspirasi mahasiswa untuk eksplorasi frontiers sains. Program scientifiс seminar ITERA menjaga kultur riset dan pembelajaran berkelanjutan dalam komunitas akademik."
+        ]
+    },
+    {
+        "tag": "pertamina_kolaborasi",
+        "patterns": [
+            "ITERA dan Pertamina",
+            "Kerjasama migas ITERA",
+            "Program magang industri",
+            "Partnership energi"
+        ],
+        "responses": [
+            "ITERA menjalin kerjasama dengan Pertamina dan industri minyak gas nasional untuk magang, penelitian, dan pengembangan SDM. Mahasiswa program studi minyak & gas, geofisika, dan teknik mesin ITERA mendapat kesempatan belajar langsung di proyek-proyek Pertamina, mempersiapkan mereka untuk karir industri energi nasional."
+        ]
+    },
+    {
+        "tag": "kesehatan_reproduksi",
+        "patterns": [
+            "Edukasi kesehatan reproduksi",
+            "Duta GENRE ITERA",
+            "Program kesehatan remaja",
+            "Kesejahteraan reproduksi"
+        ],
+        "responses": [
+            "Mahasiswa ITERA Fadilla Aulia meraih Juara 2 Duta GENRE (Generasi Berencana) Nasional dengan mengembangkan program edukasi kesehatan reproduksi remaja yang komprehensif dan sensitif. Program ini mencakup literasi kesehatan seksual, kesejahteraan reproduksi, dan pemberdayaan perempuan. ITERA mendukung mahasiswa menjadi change agent untuk kesehatan masyarakat."
+        ]
+    },
+    {
+        "tag": "lingkungan_air",
+        "patterns": [
+            "Air tanah ITERA",
+            "Rekayasa air terpadu",
+            "Manajemen sumber daya air",
+            "Teknologi air",
+            "Limbah air"
+        ],
+        "responses": [
+            "Prodi Rekayasa Tata Kelola Air Terpadu ITERA melaksanakan aksi bina sungai dan pengelolaan sumber daya air di berbagai desa. Mahasiswa mengaplikasikan teknologi pengolahan air, konservasi air, dan pemulihan sungai. Program ini sejalan dengan SDGs Ke-6 tentang air bersih dan sanitasi untuk semua."
+        ]
+    },
+    {
+        "tag": "pariwisata_berkelanjutan",
+        "patterns": [
+            "Pariwisata ITERA",
+            "Wisata berkelanjutan",
+            "Tata ruang wisata",
+            "Ekowisata ITERA",
+            "Gunung Betung"
+        ],
+        "responses": [
+            "Prodi Pariwisata ITERA mengembangkan tata ruang wisata alam berkelanjutan di destinasi seperti Sumber Agung. Dosen ITERA juga mengembangkan media informasi atraksi wisata Gunung Betung. Program ini menunjukkan bagaimana pariwisata dapat menjadi instrumen pembangunan ekonomi lokal yang ramah lingkungan dan menguntungkan komunitas."
+        ]
+    },
+    {
+        "tag": "pertanian_singkong",
+        "patterns": [
+            "Singkong Lampung",
+            "Produk singkong ITERA",
+            "Pemberdayaan petani",
+            "Teknologi pertanian",
+            "Nilai tambah produk"
+        ],
+        "responses": [
+            "Rektor ITERA dorong inovasi Tepung MOCAF (Modified Cassava Flour) dari singkong untuk meningkatkan kesejahteraan petani singkong Lampung. Mahasiswa dan dosen FTI ITERA melatih warga mengolah singkong dan ikan wader menjadi produk bernilai tambah. Program pemberdayaan petani ini adalah komitmen ITERA pada ekonomi lokal berkelanjutan."
+        ]
+    },
+    {
+        "tag": "sistem_pertambangan",
+        "patterns": [
+            "Teknik pertambangan ITERA",
+            "Edukasi merkuri",
+            "Pertambangan berkelanjutan",
+            "Kesehatan pertambangan"
+        ],
+        "responses": [
+            "Teknik Pertambangan ITERA mengedukasi warga Sidomekar tentang bahaya merkuri di lahan bekas tambang. Program ini mencakup pemahaman dampak lingkungan pertambangan, teknologi pertambangan berkelanjutan, dan kesehatan masyarakat. ITERA mengintegrasikan tanggung jawab sosial perusahaan dalam kurikulum pertambangan."
+        ]
+    },
+    {
+        "tag": "stunting_gizi",
+        "patterns": [
+            "Pencegahan stunting",
+            "Edukasi gizi ITERA",
+            "Kesehatan anak kampus",
+            "Program nutrisi"
+        ],
+        "responses": [
+            "Tim Dosen Biologi ITERA mengedukasi gizi pangan di posyandu untuk mencegah stunting sejak dini. Program ini mengajarkan pentingnya nutrisi seimbang, pangan lokal bergizi, dan pola makan sehat. ITERA percaya pendidikan gizi adalah investasi untuk generasi masa depan yang sehat dan produktif."
+        ]
+    },
+    {
+        "tag": "kantin_kontainer",
+        "patterns": [
+            "Kantin kontainer ITERA",
+            "Program kantin terjangkau",
+            "Kerjasama kantin",
+            "Akses pangan kampus"
+        ],
+        "responses": [
+            "ITERA, Permata Bank Syariah, dan Dompet Dhuafa berkolaborasi menghadirkan Program Kantin Kontainer untuk menyediakan makanan bergizi terjangkau bagi mahasiswa kurang mampu. Inisiatif ini menunjukkan komitmen ITERA pada kesejahteraan mahasiswa dan akses pangan yang adil di kampus."
+        ]
+    },
+    {
+        "tag": "penerbit_itera",
+        "patterns": [
+            "ITERA Press",
+            "Penerbit kampus",
+            "Penerbitan buku ITERA",
+            "Bunga rampai AI",
+            "Literasi penerbitan"
+        ],
+        "responses": [
+            "ITERA Press mengajak sivitas akademika dan publik menulis buku bunga rampai bertema AI (Artificial Intelligence). Inisiatif penerbitan ini mendorong diskursus intelektual tentang AI, diseminasi pengetahuan, dan pengembangan industri kreatif penerbitan lokal. ITERA membangun ekosistem literasi dan penerbitan yang dinamis."
         ]
     }
 ]
