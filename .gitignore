@@ -1,0 +1,62 @@
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# C extensions
+*.so
+
+# Virtual environments
+venv/
+env/
+.venv/
+.env/
+
+# IDE
+.idea/
+.vscode/
+*.swp
+*.swo
+*~
+
+# Jupyter Notebook
+.ipynb_checkpoints/
+*.ipynb
+
+# Generated evaluation files (not needed for deployment)
+confusion_matrix.png
+confidence_distribution.png
+class_distribution.png
+classification_report.txt
+evaluate_model.py
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Logs
+*.log
+logs/
+
+# Temporary files
+*.tmp
+*.temp
+.cache/
+
+# Distribution
+dist/
+build/
+*.egg-info/
+
+# ==================================================
+# PENTING: File berikut HARUS ada untuk Streamlit Cloud
+# JANGAN uncomment baris di bawah ini!
+# ==================================================
+# app.py              - Aplikasi Streamlit
+# requirements.txt    - Dependencies
+# data.json           - Dataset intents
+# ketara_chatbot.keras - Model trained
+# tokenizer.pkl       - Tokenizer
+# label_encoder.pkl   - Label encoder
+# responses.pkl       - Responses dictionary
+# config.pkl          - Model config
