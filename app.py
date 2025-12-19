@@ -241,25 +241,6 @@ def main():
     
     # Sidebar
     with st.sidebar:
-        st.markdown("### 📊 Model Info")
-        
-        col1, col2 = st.columns(2)
-        with col1:
-            st.markdown(f"""
-            <div class="stat-card">
-                <div class="stat-value">{config['num_classes']}</div>
-                <div class="stat-label">Intents</div>
-            </div>
-            """, unsafe_allow_html=True)
-        
-        with col2:
-            st.markdown(f"""
-            <div class="stat-card">
-                <div class="stat-value">{config['vocab_size']}</div>
-                <div class="stat-label">Vocabulary</div>
-            </div>
-            """, unsafe_allow_html=True)
-        
         st.markdown("---")
         st.markdown("### ⚙️ Pengaturan")
         confidence_threshold = st.slider(
@@ -279,13 +260,6 @@ def main():
         st.markdown("""
         **KETARA** adalah chatbot berbasis **Bidirectional LSTM** 
         untuk memberikan informasi seputar kampus ITERA.
-        
-        **Teknologi:**
-        - TensorFlow/Keras
-        - Bidirectional LSTM
-        - Streamlit
-        
-        **Akurasi:** 95.86%
         """)
         
         if st.button("🗑️ Clear Chat", use_container_width=True):
